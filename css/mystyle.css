@@ -1,0 +1,56 @@
+aside {
+  background-color: #F5F5F5;
+  height: 1200px;
+}
+
+header h1 {
+  font-size:30px;
+  font-weight: bold;
+  margin: 0;
+}
+
+header h2 {
+    font-size:20px;
+    margin: 0;
+}
+
+header .logo {
+
+}
+
+aside h1 {
+  font-size:20px;
+  font-weight: bold;
+}
+
+aside h2 {
+    font-size:10px;
+    color: gray;
+    font-weight: bold;
+
+}
+
+.element-center {
+  align-self: center;
+  text-align: center;
+}
+
+hr {
+  border-top: 1px solid black;
+}
+
+li.histoire{ list-style-type: "\1F4D3"; }
+li.poids{ list-style-type: "\1F3CB"; }
+li.danger{ list-style-type: "\2757"; }
+li.metier{ list-style-type: "\1F4BC"; }
+li.devenir{ list-style-type: "\1F3A5"; }
+li.contact{ list-style-type: "\1F4EB"; }
+
+aside li {
+  margin-bottom: 5px;
+}
+
+aside a, aside a:hover {
+  color: black;
+  text-decoration: none;
+}
