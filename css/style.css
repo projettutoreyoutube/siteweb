@@ -1,0 +1,250 @@
+/* Mise en forme du Body */
+
+body{
+	margin:0;
+	padding:0;
+	background-color:#FAFAfA;
+}
+
+.container{
+	padding: 0;
+}
+
+
+/* Fin mise en forme du Body
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mise en forme du Header */
+
+header.row{
+	margin-right:0;
+	margin-left: 0;
+	background-color: #F5F5F5;	
+	border-bottom: solid 1px #5D0806;
+}
+
+div.banner{
+	padding:0;
+	margin: 0;
+}
+img.banner{
+	width:100%;
+}
+
+div.top{
+	position: relative;
+}
+
+nav.nav.top{
+	padding:0;
+}
+
+a.top{
+	color:black;
+	text-decoration: none;
+	padding: 15px;
+	text-align: center;
+	transition-duration: 0.4s;
+}
+a.top:hover{
+	background-color: #5D0806;
+	color:white;
+	cursor: pointer;
+}
+a.top.col-xs-6{
+	width: 50%;
+	margin:auto;
+}
+
+
+/* Fin mise en forme du Header
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mise en forme du Main */
+
+main.main{
+	padding-top: 15px;padding-bottom: 15px;
+	border-right: solid 0.5px #5D0806;
+	border-left: solid 0.5px #5D0806;
+
+}
+
+div.mid{
+	background-color: white;
+}
+
+div.row.content{
+	margin:0;
+	padding:0;
+}
+
+h1.title{
+	padding:15px;
+	padding-top: 0;
+	margin:0;
+	text-align:center;
+	font-size: 2rem;
+}
+
+h2.subtitle{
+	font-size:1.3rem;
+	text-align: center;
+	padding-bottom: 15px;
+	margin:0;
+	border-bottom: solid 0.5px #5D0806;
+}
+h3.pearls{
+	font-size:1.1rem;
+	text-align: left;
+	margin-top: 15px;
+	padding:15px;
+	margin:0;text-align: justify;
+}
+
+h4.nom{
+	padding:15px;
+	padding-bottom: 0;
+	margin:0;
+	font-size: 1.2rem;
+	margin-top: 15px;
+	}
+
+p.paragraph{
+	font-size: 1rem;
+	text-align: justify;
+	color:black;
+	padding : 15px;
+	margin:0;
+}
+p.lien{
+	font-size: 1rem;
+	text-align: center;
+	color:black;
+	padding : 15px;
+	margin:0;
+}
+
+table{
+	border:solid 2px #5D0806;
+	margin-bottom: 25px;
+	text-align:center;
+}
+td{
+	border:solid 2px #5D0806 ;
+	padding:5px;
+	text-align-last: center;
+	color:#5D0806;
+}
+td.left{
+	width:15%;
+}
+
+
+a.button {
+	background-color: #5D0806;
+    color: white;
+    text-decoration: none;
+    padding: 16px 32px;
+    text-align: center;
+    transition-duration: 0.4s;
+    border:solid 1px #5D0806;
+    border-radius: 10px;
+    display: block;
+    margin:auto;
+    margin-top: 15px
+}
+a.button:hover {
+    background-color: #F5F5F5;
+    color: black;
+    border:solid 1px #5D0806;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 16px 32px;
+}
+
+
+/* Fin mise en forme du Main
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mise en forme du Footer */
+
+
+footer.row{
+	margin-right:0;
+	margin-left: 0;
+	background-color: #5D0806;
+	color:white;
+	padding-top:15px;
+	padding-bottom: 15px; 
+}
+
+a.lien{
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+a.iut{
+	border-right: solid 1px #F5F5F5;
+	margin-bottom: 15px;
+}
+a.info{
+	border-left: solid 1px #F5F5F5;
+	margin-bottom: 15px;
+}
+
+div.bot{
+	margin: 0;
+	padding:15px;
+	padding-bottom: 0;
+	border-bottom: solid 2px #F5F5F5;
+}
+
+span.bulle{
+	visibility: hidden;
+    width: 240px;
+    background-color: #F5F5F5;
+    color: black;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 150%;
+    left: 50%;
+    margin-left: -120px;
+}
+span.bulle::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -11px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent #F5F5F5 transparent;
+}
+a.iut:hover .bulle{
+	visibility: visible;
+}
+a.info:hover .bulle{
+	visibility: visible;
+}
+
+
+div.sign{
+	margin: 0;
+	padding: 15px;
+}
+
+p.sign{
+	margin:0;
+	text-align: center;
+}
+
+
+/* Fin mise en forme Footer
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*/
