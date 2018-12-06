@@ -32,14 +32,14 @@ else{
     <hr class="col-md-8">
   </div>
   <div class="row">
-    <ul>
-      <li class="histoire"><a href="index.php?partie=1">Histoire</a></li>
-      <li class="poids"><a href="index.php?partie=2"> Le poids dans la société</a></li>
-      <li class="danger"><a href="index.php?partie=3"> Les dangers et limites</a></li>
-      <li class="metier"><a href="index.php?partie=4"> Le métier de youtubeur</a></li>
-      <li class="devenir"><a href="index.php?partie=5"> Devenir youtubeur</a></li>
-      <li class="contact"><a href="page.php"> Contactez-nous</a></li>
+    <ul class="element-left">
+      <li class="histoire"><a href="index.php?partie=1"><i class="fa fa-book-open"></i><span>Histoire</span></a></li>
+      <li class="poids"><a href="index.php?partie=2"><i class="fa fa-balance-scale"></i><span>Le poids dans la société</span></a></li>
+      <li class="danger"><a href="index.php?partie=3"><i class="fa fa-exclamation-triangle"></i><span>Les dangers et limites</span></a></li>
+      <li class="metier"><a href="index.php?partie=4"><i class="fa fa-user-tie"></i><span>Le métier de youtubeur</span></a></li>
+      <li class="contact"><a href="page.php"><i class="fa fa-comments "></i><span>Contactez-nous</span></a></li>
     </ul>
+
   </div>
   <div class="row">
     <hr class="col-md-8">

@@ -2,6 +2,7 @@
 <html lang="fr" >
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/bootstrap-grid.css">
     <link rel="stylesheet" href="css/bootstrap-reboot.css">
@@ -11,7 +12,10 @@
   <body>
 
     <div class="container-fluid">
-      <?php include('include/header_accueil.php'); ?>
+      <div class="row">
+        <?php include('include/header_accueil.php'); ?>
+      </div>
+
 
       <div class="row">
         <?php include('include/aside.php'); ?>
@@ -22,7 +26,7 @@
               <ul id="menu-accordeon">
                 <li><a href="#">Menu des parties</a>
                   <ul>
-                    <li><a class="col-md-2" href="index.php?partie=1">Histoire</a></li>
+                    <li><i class="fa fa-github"></i><a class="col-md-2" href="index.php?partie=1">Histoire</a></li>
                     <li><a class="col-md-2" href="index.php?partie=2"> Le poids dans la société</a></li>
                     <li><a class="col-md-2" href="index.php?partie=3"> Les dangers et limites</a></li>
                     <li><a class="col-md-2" href="index.php?partie=4"> Le métier de youtubeur</a></li>
@@ -35,7 +39,6 @@
           </div>
 
           <div class="main_article">
-
             <?php
             switch($partie){
               case 0:
@@ -77,3 +80,8 @@
 <?php include('include/footer.php'); ?>
 </body>
 </html>
+<br>
+<br>
+<span class="fas fa-stroopwafel"></span>
+<i class="fas fa-stroopwafel"></i>
+<i class="fas fa-stroopwafel"></i>

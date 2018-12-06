@@ -104,9 +104,65 @@ img.banner{
 /*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Fin Menu déroulant de navigation*/
 
+/* Aside */
 aside {
   background-color: #F5F5F5;
 }
+
+input.search{
+  background-color: white;
+}
+
+aside h1 {
+  font-size:20px;
+  font-weight: bold;
+}
+
+aside h2 {
+    font-size:10px;
+    color: gray;
+    font-weight: bold;
+
+}
+
+.element-center {
+  align-self: center;
+  text-align: center;
+}
+
+.element-left {
+  align-self: center;
+  text-align: left;
+}
+
+hr {
+  border-top: 1px solid black;
+}
+
+aside ul {
+  margin: 0;
+  padding: 0 20px 0 20px;
+}
+
+aside li { list-style-type: none; margin-bottom: 5px; }
+
+aside a {
+  color: black;
+  text-decoration: none;
+}
+
+aside span {
+  margin-left: 5px;
+}
+
+aside a:hover {
+  color: #5D0806;
+  text-decoration: none;
+}
+
+
+
+/* Fin aside --------------------------------------------------------------------------------------------------------------------------------------------------------------- */
 
 
 nav.navigation{
@@ -160,71 +216,24 @@ div.main_article{
 }
 
 .content{
-  margin-left: 60px;
-  margin-top: 20px;
+  padding: 20px 30px 20px 30px;
+  text-align: justify;
 }
 
 .content-2{
-  margin-left: 60px;
-  margin-top: 20px;
+  padding: 20px 30px 20px 30px;
+  text-align: justify;
 }
 
 .row .img-md{
   height: 50%;
   width: 50%;
-  margin-top: 20px;
-  margin-left: 20%;
-
+  margin: 5% 25% 5% 25%;
 }
 
 
 
-input.search{
-  background-color: white;
-}
 
-aside h1 {
-  font-size:20px;
-  font-weight: bold;
-}
-
-aside h2 {
-    font-size:10px;
-    color: gray;
-    font-weight: bold;
-
-}
-
-.element-center {
-  align-self: center;
-  text-align: center;
-}
-
-hr {
-  border-top: 1px solid black;
-}
-
-li.histoire{ list-style-type: "\1F4D3"; }
-li.poids{ list-style-type: "\1F3CB"; }
-li.danger{ list-style-type: "\2757"; }
-li.metier{ list-style-type: "\1F4BC"; }
-li.devenir{ list-style-type: "\1F3A5"; }
-li.contact{ list-style-type: "\1F4EB"; }
-
-aside li {
-  margin-bottom: 5px;
-}
-
-aside a {
-  color: black;
-  text-decoration: none;
-}
-
-aside a:hover{
-  background-color: #bdbdbd;
-  color: black;
-  text-decoration: none;
-}
 
 
 /*

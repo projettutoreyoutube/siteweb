@@ -20,7 +20,7 @@ Mise en forme du Header */
 header.row{
 	margin-right:0;
 	margin-left: 0;
-	background-color: #F5F5F5;	
+	background-color: #F5F5F5;
 	border-bottom: solid 1px #5D0806;
 }
 
@@ -65,11 +65,11 @@ a.top.col-xs-6{
 Mise en forme du Main */
 
 main.main{
-	padding-top: 15px;padding-bottom: 15px;
+	padding-top: 15px 0 15px 0;
 	border-right: solid 0.5px #5D0806;
 	border-left: solid 0.5px #5D0806;
-
 }
+
 
 div.mid{
 	background-color: white;
@@ -178,7 +178,7 @@ footer.row{
 	background-color: #5D0806;
 	color:white;
 	padding-top:15px;
-	padding-bottom: 15px; 
+	padding-bottom: 15px;
 }
 
 a.lien{
