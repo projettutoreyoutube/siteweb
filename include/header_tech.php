@@ -1,6 +1,6 @@
 <header class="row">
 		<div class="col-sm-12 banner">
-			<img class="banner" src="banner.png" alt="image barre"/>
+			<img class="banner" src="img/banner.png" alt="image barre"/>
 		</div>
 		<div class="container top " data-spy="affix" data-offset-top="197">
 			<nav class="col-md-12 nav ">

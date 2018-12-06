@@ -26,7 +26,7 @@ else {
 <body id="top">
 
 	<?php
-		include 'Include/header_q.php';
+		include 'Include/header_tech.php';
 	?>
 
 	<div class="container mid" >
@@ -38,27 +38,27 @@ else {
 				{ 
 
 				case 0: 
-					include 'Include/base.php'; // page normale
+					include 'Include/technique/base.php'; // page normale
 				break;
 
 				case 1:
-					include 'Include/rapport.php'; // page chaines ?
+					include 'Include/technique/rapport.php'; // page chaines ?
 				break;
 
 				case 2:
-					include 'Include/site.php'; // page des caractéristiques du site
+					include 'Include/technique/site.php'; // page des caractéristiques du site
 				break;
 
 				case 3:
-					include 'Include/groupe.php'; // page présentation du groupe
+					include 'Include/technique/groupe.php'; // page présentation du groupe
 				break;
 
 				case 4:
-					include 'Include/contact.php'; // page contact
+					include 'Include/technique/contact.php'; // page contact
 				break;
 
 				case 5:
-					include 'Include/bestof.php'; // page page best of sondages
+					include 'Include/technique/bestof.php'; // page page best of sondages
 				break;
 
 				}
@@ -69,7 +69,7 @@ else {
 	</div>
 
 	<?php
-		include 'Include/footer_q.php';
+		include 'Include/footer.php';
 	?>
 	
 </body>
