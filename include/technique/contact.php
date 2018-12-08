@@ -27,7 +27,7 @@
 </style>
 
 <?php
-require'include/technique/PHPMailerAutoload.php';
+require'include/technique/PHPMailer-5.2/PHPMailerAutoload.php';
 ?>
 
 
