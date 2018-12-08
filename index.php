@@ -11,14 +11,14 @@
   </head>
   <body>
 
-    <div class="container-fluid">
-      <div class="row">
         <?php include('include/header_accueil.php'); ?>
-      </div>
+    <div class="container-fluid">
+
 
 
       <div class="row">
         <?php include('include/aside.php'); ?>
+        
 
         <main class="col-md-7">
           <div class="d-block d-md-none row">
