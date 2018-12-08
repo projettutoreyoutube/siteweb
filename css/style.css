@@ -34,7 +34,7 @@ img.banner{
 div.nav-header{
 	position:sticky;
 	top: 0;
-	background-color: #F5F5F5;	
+	background-color: #F5F5F5;
 	border-bottom: solid 1px #5D0806;
 	z-index: 9999;
 }
@@ -150,7 +150,7 @@ td.left{
 
 
 a.button {
-	background-color: #5D0806;
+		background-color: #5D0806;
     color: white;
     text-decoration: none;
     padding: 16px 32px;
@@ -186,7 +186,7 @@ a.img{
 a.raccourci{
 	color:black;
 	text-decoration: none;
-	
+
 }
 img.background{
 	border:solid 2px #5D0806;
@@ -207,7 +207,7 @@ footer.row{
 	background-color: #5D0806;
 	color:white;
 	padding-top:15px;
-	padding-bottom: 15px; 
+	padding-bottom: 15px;
 }
 
 a.lien{
