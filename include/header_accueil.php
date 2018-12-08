@@ -1,6 +1,9 @@
 <!-- header -->
 <?php if(isset($_GET['partie'])){
   $partie = $_GET['partie'];
+}
+else{
+  $partie = 0;
 } ?>
 
 <div class="header_tech">
@@ -15,6 +18,10 @@
 <div class="header_accueil">
 	<?php
 	switch($partie){
+    case 0:
+    include('include/navigation/nav_presentation.php');
+    break;
+
 		case 1:
 		include('include/navigation/nav_histoire.php');
 		break;
