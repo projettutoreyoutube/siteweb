@@ -69,7 +69,7 @@
         </main>
 
         <aside class="d-none d-md-block col-md-3">
-          Ceci est une playlist fantome lol
+          <?php include('playlist/Liste_playlist.html'); ?>
         </aside>
 
       </div>
