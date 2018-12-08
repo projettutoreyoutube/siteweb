@@ -18,7 +18,7 @@
 
       <div class="row">
         <?php include('include/aside.php'); ?>
-        
+
 
         <main class="col-md-7">
           <div class="d-block d-md-none row">
@@ -65,6 +65,14 @@
               break;
             }
             ?>
+            <div class="row">
+            <div class="col-md-6 element-center">
+            	<a class="button up" href="#top">Retour en haut</a>
+            </div>
+            <div class="col-md-6 element-center">
+            	<a class="button back" href="index.php">Retour à l'accueil</a>
+            </div>
+          </div>
           </div>
         </main>
 
