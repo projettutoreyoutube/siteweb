@@ -8,7 +8,7 @@
 	<div class="row col-lg-12 miniatures">
 		<div class="col-lg-4 col-md-6 raccourci">
 			<div class="lien">
-				<a class="img" href="accueil.php"><img class="background" src="img/money_backgroung.jpg" alt="background pour lien"></a>
+				<a class="img" href="index.php"><img class="background" src="img/money_backgroung.jpg" alt="background pour lien"></a>
 				<a class="raccourci" href="accueil.php">Retour à l'accueil</a>
 			</div>
 		</div>
