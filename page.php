@@ -52,7 +52,7 @@ else {
 				break;
 
 				case 4:
-					include 'Include/technique/contact.php'; // page contact
+					include 'contact.php'; // page contact
 				break;
 
 				case 5:
