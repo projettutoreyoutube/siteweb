@@ -38,6 +38,7 @@ if(isset($_POST["submit"])){
 	// Paramètres SMTP
 	$mail->isSMTP();
 	$mail->Host = 'smtp.gmail.com';
+	$mail->SMTPDebug = 2;
 	$mail->SMTPAuth = true;
 	$mail->Username = 'projettutytb@gmail.com';
 	$mail->Password = 'weshfrate90000';
