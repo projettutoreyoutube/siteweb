@@ -1,7 +1,7 @@
 /*Mise en forme du Header */
 
 .header_accueil{
-  padding: 15px;
+
   background-color: #bdbdbd;
   color: black;
   width: 100%;
@@ -175,14 +175,23 @@ aside a:hover {
 
 
 nav.navigation{
-  background-color: #c31a2a;
   width: 100%;
-  text-align: center;
+  color:black;
+	text-align: center;
   padding: 15px;
 }
 
+nav.navigation a{
+  text-decoration: none;
+  padding: 15px;
+	transition-duration: 0.4s;
+  text-align: center;
+}
+
 nav.navigation a:hover{
-  color: black;
+  background-color: #5D0806;
+	color:white;
+	cursor: pointer;
   text-decoration: none;
 }
 
@@ -239,7 +248,28 @@ div.main_article{
   margin: 5% 25% 5% 25%;
 }
 
-
+a.button {
+	background-color: #5D0806;
+    color: white;
+    text-decoration: none;
+    padding: 16px 32px;
+    text-align: center;
+    transition-duration: 0.4s;
+    border:solid 1px #5D0806;
+    border-radius: 10px;
+    display: inline-block;
+    margin:auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+a.button:hover {
+    background-color: #F5F5F5;
+    color: black;
+    border:solid 1px #5D0806;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 16px 32px;
+}
 
 
 
