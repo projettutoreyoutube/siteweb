@@ -20,8 +20,7 @@ Mise en forme du Header */
 header.row{
 	margin-right:0;
 	margin-left: 0;
-	background-color: #F5F5F5;
-	border-bottom: solid 1px #5D0806;
+
 }
 
 div.banner{
@@ -32,8 +31,12 @@ img.banner{
 	width:100%;
 }
 
-div.top{
-	position: relative;
+div.nav-header{
+	position:sticky;
+	top: 0;
+	background-color: #F5F5F5;	
+	border-bottom: solid 1px #5D0806;
+	z-index: 9999;
 }
 
 nav.nav.top{
@@ -65,11 +68,11 @@ a.top.col-xs-6{
 Mise en forme du Main */
 
 main.main{
-	padding-top: 15px 0 15px 0;
+	padding-top: 15px;padding-bottom: 15px;
 	border-right: solid 0.5px #5D0806;
 	border-left: solid 0.5px #5D0806;
-}
 
+}
 
 div.mid{
 	background-color: white;
@@ -118,6 +121,11 @@ p.paragraph{
 	padding : 15px;
 	margin:0;
 }
+
+li.paragraph{
+	text-align: justify;
+	padding: 15px; padding-top: 0;
+}
 p.lien{
 	font-size: 1rem;
 	text-align: center;
@@ -135,7 +143,6 @@ td{
 	border:solid 2px #5D0806 ;
 	padding:5px;
 	text-align-last: center;
-	color:#5D0806;
 }
 td.left{
 	width:15%;
@@ -164,11 +171,33 @@ a.button:hover {
     padding: 16px 32px;
 }
 
+div.raccourci{
+	padding: 25px;
+}
+div.lien{
+	height: 150px;
+	width:290px;
+	margin:auto;
+	text-align: center;
+}
+a.img{
+	border-radius: 25px;
+}
+a.raccourci{
+	color:black;
+	text-decoration: none;
+	
+}
+img.background{
+	border:solid 2px #5D0806;
+	height:150px;
+	width: 290px;
+	border-radius: 25px
+}
+
 
 /* Fin mise en forme du Main
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Mise en forme du Footer */
 
 
@@ -178,7 +207,7 @@ footer.row{
 	background-color: #5D0806;
 	color:white;
 	padding-top:15px;
-	padding-bottom: 15px;
+	padding-bottom: 15px; 
 }
 
 a.lien{

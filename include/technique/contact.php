@@ -23,16 +23,16 @@
 	div.formulaire{
 		padding:15px;
 	}
-	p.champ{
-		margin:0;
-		padding:15px;
-	}
+
 </style>
 
+<?php
+require'include/technique/PHPMailerAutoload.php';
+?>
 
 
 <h1 class="col-sm-12 title">Bienvenue sur la page de de contact</h1>
-<h2 class="col-sm-12 subtitle">Cette page regroupe plusieurs moyens de contact.</h2>
+<h2 class="col-sm-12 subtitle">Cette page regroupe plusieurs moyens de contact</h2>
 
 <div class="col-md-12 contacter row">
 	<p class="col-md-6 lien">
@@ -47,15 +47,22 @@
 
 
 <div class="col-sm-12 formulaire row">
-	<form method="post" action="<?php echo strip_tags($_SERVER['REQUEST_URI']); ?>">
-		<p>Votre nom : <input type="text" name="nom" size="30" /></p>
-		<p>Votre prénom : <input type="text" name="prenom" size="30" /></p>
-		<p>Votre email: <span style="color:#ff0000;">*</span>: <input type="text" name="email" size="30" /></p>
-		<p>Message <span style="color:#ff0000;">*</span>:</p>
-		<textarea name="message" cols="60" rows="10"></textarea>
-		<!-- Ici pourra être ajouté un captcha anti-spam (plus tard) -->
-		<p><input type="submit" name="submit" value="Envoyer" /></p>
-    </form>
+	<form method="post" action="page.php">
+		<div class="row">
+			<p class="col-sm-6">Votre nom : <input type="text" name="nom"></p>
+			<p class="col-sm-6">Votre prénom : <input type="text" name="prenom"></p>	
+		</div>
+		<div class="row">
+			<p class="col-sm-12">Votre email : <input type="text" name="email"></p>	
+		</div>
+		<div class="row col-sm-12">
+			<p class="col-sm-12">Votre message : </p>
+			<textarea name="message" cols="60" rows="10"></textarea>
+		</div>
+		<div class="row">
+		<p class="col-sm-12"><input type="submit" name="submit" value="Envoyer" /></p>
+		</div>
+	</form>
 </div>
 
 

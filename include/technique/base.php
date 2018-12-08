@@ -1,23 +1,46 @@
-<style type="text/css">
-	footer.row{
-		position:fixed;
-		bottom:0;
-		width:100%;
-		}
-	main.main{
-		min-height: 810px;
-	}
-</style>
 
 <h1 class="col-sm-12 title">Bienvenue dans la partie "technique" du site</h1>
 <h2 class="col-sm-12 subtitle">Cette partie du site a pour but de vous présenter certaines caractéristiques de notre projet</h2>
 
 <p class="col-sm-12 paragraph">
 	Vous trouverez plusieurs onglets sur cette page :<br />
-	Un onglet > <strong>Accueil</strong> < qui vous redirigera vers la page d'accueil de notre site. <br />
-	Un onglet > <strong>Notre rapport</strong> < qui vous redirigera vers une page présentant notre rapport.<br />
-	Un onglet > <strong>Notre site</strong> < qui vous redirigera vers une page présentant notre site et ses caractéristiques.<br />
-	Un onglet > <strong>Notre équipe</strong> < qui vous redirigera vers une page de présentation de l'équipe du projet.<br />
-	Un onglet > <strong>Nous contacter</strong> < qui vous redirigera vers la page de contact.<br />
-	Un onglet > <strong>Best-of</strong> < qui vous redirigera vers une page présentant les meilleures réponses obtenues lors de notre sondage.<br />
+
+	<div class="row col-lg-12 miniatures">
+		<div class="col-lg-4 col-md-6 raccourci">
+			<div class="lien">
+				<a class="img" href="accueil.php"><img class="background" src="img/money_backgroung.jpg" alt="background pour lien"></a>
+				<a class="raccourci" href="accueil.php">Retour à l'accueil</a>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-6 raccourci">
+			<div class="lien">
+				<a class="img" href="page.php?article=1"><img class="background" src="img/miniatures/rapport-minia.png" alt="background pour lien"></a>
+				<a class="raccourci" href="page.php?article=1">Notre rapport</a>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-6 raccourci">
+			<div class="lien">
+				<a class="img" href="page.php?article=2"><img class="background" src="img/miniatures/banner-minia.png" alt="background pour lien"></a>
+				<a class="raccourci" href="page.php?article=2">Notre site</a>
+			</div>
+		</div> 
+		<div class="col-lg-4 col-md-6 raccourci">
+			<div class="lien">
+				<a class="img" href="page.php?article=3"><img class="background" src="img/miniatures/equipe-minia.jpg" alt="background pour lien"></a>
+				<a class="raccourci" href="page.php?article=3">Notre équipe</a>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-6 raccourci">
+			<div class="lien">
+				<a class="img" href="page.php?article=4"><img class="background" src="img/miniatures/contact-minia.jpg" alt="background pour lien"></a>
+				<a class="raccourci" href="page.php?article=4">Nous contacter</a>
+			</div>
+		</div>
+		<div class="col-lg-4 col-md-6 raccourci">
+			<div class="lien">
+				<a class="img" href="page.php?article=5"><img class="background" src="img/miniatures/best_of-minia.jpg" alt="background pour lien"></a>
+				<a class="raccourci" href="page.php?article=5">Best-of</a>
+			</div>
+		</div>
+</div> 
 </p>

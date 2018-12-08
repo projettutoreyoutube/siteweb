@@ -8,7 +8,7 @@
 <h1 class="col-sm-12 title">Bienvenue sur la page Best-Of du site</h1>
 <h2 class="col-sm-12 subtitle">Cette page recense les perles du sondage que nous avons réalisé lors de notre projet</h2>
 
-<h3 class="col-sm-12 pearls"><small>(Nous précisons que les réponses n'ont pas été modifiées, nous avons seulement corrigé l'orthographe. Nous tenons également à préciser que les propos retranscrit ici ne reflètent pas notre avis, ils servent uniquement un but humoristique.)</small></h3>
+<h3 class="col-sm-12 pearls"><small>(Nous précisons que les réponses n'ont pas été modifiées, nous avons seulement corrigé l'orthographe et en avons rendus certaines plus "politiquement correctes". Nous tenons également à préciser que les propos retranscrit ici ne reflètent pas notre avis, ils servent uniquement un but humoristique.)</small></h3>
 
 <p class="col-sm-12 paragraph">Question : <strong>Seriez vous embêtés si YouTube venait à disparaitre ? Pourquoi ?</strong></p>
 <table class="col-sm-12 q1">
@@ -18,7 +18,7 @@
 	</tr>
 	<tr>
 		<td class="left">Oui</td>
-		<td class="right">Bah gros sans YouTube on se ferait chier !</td>
+		<td class="right">Bah gros sans YouTube on s'ennuierait !</td>
 	</tr>
 	<tr>
 		<td class="left">Oui</td>
@@ -26,7 +26,7 @@
 	</tr>
 	<tr>
 		<td class="left">Oui</td>
-		<td class="right">Parce que Dailymotion ça pue du cul !</td>
+		<td class="right">Parce que Dailymotion ça pue !</td>
 	</tr>
 	<tr>
 		<td class="left">Non</td>
@@ -34,7 +34,7 @@
 	</tr>
 	<tr>
 		<td class="left">Non</td>
-		<td class="right">Ne l'utilise pas assez pour en avoir quelquechose à foutre.</td>
+		<td class="right">Ne l'utilise pas assez pour en avoir quelquechose à faire.</td>
 	</tr>
 	<tr>
 		<td class="left">Non</td>
@@ -76,9 +76,6 @@
 
 <p class="col-sm-12 paragraph">Question : <strong>Si YouTube venait à évoluer, quelle(s) amélioration(s) voudriez-vous voir apparaître ?</strong></p>
 <table class="col-sm-12 q1">
-	<tr>
-		<td class="right">Du Porno en VR</td>
-	</tr>
 	<tr>
 		<td class="right">Fusionner avec Wikipedia 😋</td>
 	</tr>
