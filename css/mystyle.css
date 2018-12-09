@@ -1,5 +1,5 @@
 .row{margin:0;}
-.container-fluid{padding: 0;}
+.container-fluid{padding:0;}
 
 /*Mise en forme du Header */
 
@@ -194,12 +194,11 @@ nav.navigation{
   padding: 15px;
 }
 
-a.partie{
+nav.navigation a{
   text-decoration: none;
   padding: 15px;
 	transition-duration: 0.4s;
   text-align: center;
-  margin:0;
 }
 
 nav.navigation a:hover{
