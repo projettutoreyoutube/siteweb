@@ -1,5 +1,8 @@
 <div class="corps_texte">
   <div class="main_title">
+    YouTube s'ouvre au monde
+  </div>
+  <div class="main_subtitle">
     Apple tend les bras à YouTube en 2007
   </div>
 
@@ -7,7 +10,7 @@
     Le 30 mai 2007, la société Apple, dirigée par Steve JOBS ,a annoncé que l’un de ses produits, l’Apple TV, s’ouvrirait à YouTube. À cette occasion, toutes les vidéos de YouTube ont été converties dans un format « haute définition » (norme H.254 ). Cela a été la plus grande évolution technique qu’a connu YouTube depuis sa création. En effet, il utilisait précédemment le format Flash Video.
   </div>
 
-  <div class="main_title">
+  <div class="main_subtitle">
     YouTube se fraie un chemin dans l'audiovisuel français
   </div>
 
@@ -16,8 +19,5 @@
   </div>
 
   <div class="row">
-  <div class="img-md">
-    <img class="banner" src="img/money_backgroung.jpg" alt="image barre"/>
-  </div>
 </div>
 </div>

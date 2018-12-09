@@ -1,5 +1,8 @@
 <div class="corps_texte">
   <div class="main_title">
+    YouTube et les médias traditionnels
+  </div>
+  <div class="main_subtitle">
     YouYube, une menace pour les médias traditionnels ?
   </div>
 
@@ -32,8 +35,5 @@
   </div>
 
   <div class="row">
-  <div class="img-md">
-    <img class="banner" src="img/money_backgroung.jpg" alt="image barre"/>
-  </div>
 </div>
 </div>
