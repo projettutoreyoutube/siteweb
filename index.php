@@ -79,41 +79,41 @@
 
       <aside class="d-none d-md-block col-md-2">
           <div class="aside_right_title">
-            Langages présents sur ce site Web
+            <span>Powered by</span>
           </div>
           <div class="row description">
-            <div class="col-md-4">
+            <div class="offset-md-3 col-md-6 col-sm-12">
               <img class="ico_langage" src="img/ico_langage/html_ico.png" alt="image barre"/>
             </div>
-            <div class="col-md-8 legende">
-              L'HTML 5
+            <div class="col-md-12 col-sm-12 legende">
+              HTML 5
             </div>
           </div>
 
           <div class="row description">
-            <div class="col-md-4">
+            <div class="offset-md-3 col-md-6 col-sm-12">
               <img class="ico_langage" src="img/ico_langage/css_ico.png" alt="image barre"/>
             </div>
-            <div class="col-md-8 legende">
-              Le CSS3
+            <div class="col-md-12 col-sm-12 legende">
+              CSS3
             </div>
           </div>
 
           <div class="row description">
-            <div class="col-md-4">
+            <div class="offset-md-3 col-md-6 col-sm-12">
               <img class="ico_langage" src="img/ico_langage/js_ico.png" alt="image barre"/>
             </div>
-            <div class="col-md-8 legende">
-              Le Javascript
+            <div class="col-md-12 col-sm-12 legende">
+              Javascript
             </div>
           </div>
 
           <div class="row description">
-            <div class="col-md-4">
+            <div class="offset-md-3 col-md-6 col-sm-12">
               <img class="ico_langage" src="img/ico_langage/php_ico.png" alt="image barre"/>
             </div>
-            <div class="col-md-8 legende">
-              Le PHP
+            <div class="col-md-12 col-sm-12 legende">
+              PHP
             </div>
           </div>
       </aside>
