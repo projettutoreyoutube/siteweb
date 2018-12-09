@@ -56,10 +56,6 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </p>
 
-
-<div class="row col-md-6">
-	<a class="button up" href="#top">Retour en haut</a>
-</div>
-<div class="row col-md-6">
+<div class="row col-md-12">
 	<a class="button back" href="page.php">Retour à la page "technique"</a>
 </div>

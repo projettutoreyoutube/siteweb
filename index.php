@@ -19,7 +19,7 @@
 
 
       <main class="col-md-8">
-        
+
 
         <div class="main_article">
           <?php
@@ -54,10 +54,7 @@
           }
           ?>
           <div class="row">
-          <div class="col-md-6 element-center">
-            <a class="button up" href="#top">Retour en haut</a>
-          </div>
-          <div class="col-md-6 element-center">
+          <div class="col-md-12 element-center">
             <a class="button back" href="index.php">Retour à l'accueil</a>
           </div>
         </div>

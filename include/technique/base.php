@@ -23,7 +23,7 @@
 				<a class="img" href="page.php?article=2"><img class="background" src="img/miniatures/banner-minia.png" alt="background pour lien"></a>
 				<a class="raccourci" href="page.php?article=2">Notre site</a>
 			</div>
-		</div> 
+		</div>
 		<div class="col-lg-4 col-md-6 raccourci">
 			<div class="lien">
 				<a class="img" href="page.php?article=3"><img class="background" src="img/miniatures/equipe-minia.jpg" alt="background pour lien"></a>
@@ -42,5 +42,5 @@
 				<a class="raccourci" href="page.php?article=5">Best-of</a>
 			</div>
 		</div>
-	</div> 
+	</div>
 </p>

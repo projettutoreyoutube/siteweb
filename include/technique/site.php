@@ -7,7 +7,7 @@
 
 <h4 class="nom">Remarques de Loïc Bertrand</h4>
 <p class="col-sm-12 paragraph">
-	
+
 </p>
 
 <h4 class="nom">Remarques de Quentin Delignou</h4>
@@ -22,18 +22,14 @@
 
 <h4 class="nom">Remarques de Tom Jacob</h4>
 <p class="col-sm-12 paragraph">
-	
+
 </p>
 
 <h4 class="nom">Remarques de Erwan Vinot</h4>
 <p class="col-sm-12 paragraph">
-	
+
 </p>
 
-
-<div class="row col-md-6">
-	<a class="button up" href="#top">Retour en haut</a>
-</div>
-<div class="row col-md-6">
+<div class="row col-md-12">
 	<a class="button back" href="page.php">Retour à la page "technique"</a>
 </div>
