@@ -31,9 +31,6 @@ Nos braves compagnons eurent aussi un site internet en lien avec leur sujet à r
 </p>
 
 
-<div class="row col-md-6">
-	<a class="button up" href="#top">Retour en haut</a>
-</div>
-<div class="row col-md-6">
+<div class="row col-md-12">
 	<a class="button back" href="page.php">Retour à la page "technique"</a>
 </div>

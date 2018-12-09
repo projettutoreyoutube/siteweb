@@ -30,4 +30,35 @@
   <div class="content">
     Pour ce qui est de la capitalisation de YouTube, nous allons parler de la société nommée Alphabet. C’est une entreprise américaine, qui est basée en Californie et qui a été créée en 2015. En plus de posséder 100% de Google dit “traditionnel”, donc YouTube, Google Maps etc., Alphabet est aussi constitué de société comme Calico ou Nest (qui sont des projets novateurs de Google). C’est donc pour ses diverses raisons que l’on va regarder la capitalisation d’Alphabet. A ce jour, le 29 novembre 2018, le capital d’Alphabet est d’environ 1086.74 USD.
   </div>
+  <style>
+    div.left{
+      text-align: left;
+
+    }
+    a.left{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    a.left:hover{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    div.right{
+      text-align: right;
+
+    }
+    a.right{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    a.right:hover{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+  </style>
+
+  <div class="row">
+    <div class="col-md-6 left">
+      <a class="button left" href="index.php?partie=6">Partie précédente</a>
+    </div>
+    <div class="col-md-6 right">
+      <a class="button right" href="index.php?partie=6&subpart=2">Partie suivante</a>
+    </div>
+  </div>
 </div>
