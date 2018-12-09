@@ -14,7 +14,7 @@
 		</div>
 		<div class="col-lg-4 col-md-6 raccourci">
 			<div class="lien">
-				<a class="img" href="page.php?article=1"><img class="background" src="img/miniatures/rapport-minia.png" alt="background pour lien"></a>
+				<a class="img" href="page.php?article=1"><img class="background" src="img/miniatures/rapport-minia.PNG" alt="background pour lien"></a>
 				<a class="raccourci" href="page.php?article=1">Notre rapport</a>
 			</div>
 		</div>
