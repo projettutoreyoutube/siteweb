@@ -13,51 +13,63 @@
 
   		<div class="carousel-inner shwadow" role="listbox">
   			<div class="carousel-item active">
-  				<img src="img/histoire/histoire_presentation.jpg" alt="illustration histoire" width="720px" height="480px"></img>
-          <div class="carousel-caption">
-            <h2>Histoire</h2>
-            <p>Revivez le passé de YouTube !</p>
-          </div>
+          <a href="index.php?partie=1">
+    				<img src="img/histoire/histoire_presentation.jpg" alt="illustration histoire" width="720px" height="480px"></img>
+            <div class="carousel-caption">
+              <h2>Histoire</h2>
+              <p>Revivez le passé de YouTube !</p>
+            </div>
+          </a>
   			</div>
 
         <div class="carousel-item shwadow">
-  				<img src="img/poids/poids_presentation.jpg" alt="illustration poids dans la société" width="720px" height="480px"></img>
-          <div class="carousel-caption">
-            <h2>Poids dans la société</h2>
-            <p>Saisissez l'influence de YouTube !</p>
-          </div>
+          <a href="index.php?partie=2">
+    				<img src="img/poids/poids_presentation.jpg" alt="illustration poids dans la société" width="720px" height="480px"></img>
+            <div class="carousel-caption">
+              <h2>Poids dans la société</h2>
+              <p>Saisissez l'influence de YouTube !</p>
+            </div>
+          </a>
   			</div>
 
         <div class="carousel-item black-tv">
-  				<img src="img/dangers/dangers_presentation.jpeg" alt="illusration dangers et limites" width="720px" height="480px"></img>
-          <div class="carousel-caption">
-            <h2>Les dangers et les limites</h2>
-            <p>Prenez-en conscience !</p>
-          </div>
+          <a href="index.php?partie=3">
+            <img src="img/dangers/dangers_presentation.jpeg" alt="illusration dangers et limites" width="720px" height="480px"></img>
+            <div class="carousel-caption">
+              <h2>Les dangers et les limites</h2>
+              <p>Prenez-en conscience !</p>
+            </div>
+          </a>
   			</div>
 
         <div class="carousel-item black-tv">
-  				<img src="img/metier/metier_presentation.png" alt="illusration métier de youtubeur" width="720px" height="480px"></img>
-          <div class="carousel-caption">
-            <h2>Métier de youtubeur</h2>
-            <p>Mettez-vous dans la peau d'un youtubeur !</p>
-          </div>
+          <a href="index.php?partie=4">
+            <img src="img/metier/metier_presentation.png" alt="illusration métier de youtubeur" width="720px" height="480px"></img>
+            <div class="carousel-caption">
+              <h2>Métier de youtubeur</h2>
+              <p>Mettez-vous dans la peau d'un youtubeur !</p>
+            </div>
+          </a>
   			</div>
 
         <div class="carousel-item shwadow">
-  				<img src="img/miniatures/banner-minia.png" alt="illusration partie technique" width="720px" height="480px"></img>
-          <div class="carousel-caption">
-            <h2>Partie technique</h2>
-            <p>Découvrez les coulisses du projet !</p>
-          </div>
+          <a href="index.php?partie=5">
+            <img src="img/miniatures/banner-minia.png" alt="illusration partie technique" width="720px" height="480px"></img>
+            <div class="carousel-caption">
+              <h2>Partie technique</h2>
+              <p>Découvrez les coulisses du projet !</p>
+            </div>
+          </a>
   			</div>
 
         <div class="carousel-item shwadow">
-  				<img src="img/miniatures/contact-minia.jpg" alt="illusration contact" width="720px" height="480px"></img>
-          <div class="carousel-caption">
-            <h2>Nous contacter</h2>
-            <p>Accédez au formulaire de contact !</p>
-          </div>
+          <a href="index.php?partie=6">
+            <img src="img/miniatures/contact-minia.jpg" alt="illusration contact" width="720px" height="480px"></img>
+            <div class="carousel-caption">
+              <h2>Nous contacter</h2>
+              <p>Accédez au formulaire de contact !</p>
+            </div>
+          </a>
   			</div>
 
   		</div>
