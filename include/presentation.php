@@ -9,6 +9,8 @@
         <li data-target="#carousel-example-generic" data-slide-to="3"></li>
         <li data-target="#carousel-example-generic" data-slide-to="4"></li>
         <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="6"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="7"></li>
   		</ol>
 
   		<div class="carousel-inner white-tv" role="listbox">
@@ -54,6 +56,26 @@
 
         <div class="carousel-item white-tv">
           <a href="index.php?partie=5">
+            <img src="img/eco/eco.jpg" alt="illusration métier de youtubeur" width="720px" height="480px"></img>
+            <div class="carousel-caption">
+              <h2>Modèle économique</h2>
+              <p>Découvrez le modèle économique de YouTube !</p>
+            </div>
+          </a>
+  			</div>
+
+        <div class="carousel-item black-tv">
+          <a href="index.php?partie=6">
+            <img src="img/orga/orga_presentation.jpg" alt="illusration métier de youtubeur" width="720px" height="480px"></img>
+            <div class="carousel-caption">
+              <h2>Organisation de l'entreprise</h2>
+              <p>Etudiez plus en détails son organisation' !</p>
+            </div>
+          </a>
+  			</div>
+
+        <div class="carousel-item shwadow">
+          <a href="page.php">
             <img src="img/miniatures/banner-minia.png" alt="illusration partie technique" width="720px" height="480px"></img>
             <div class="carousel-caption">
               <h2>Partie technique</h2>
@@ -62,8 +84,13 @@
           </a>
   			</div>
 
+<<<<<<< HEAD
         <div class="carousel-item white-tv">
           <a href="index.php?partie=6">
+=======
+        <div class="carousel-item shwadow">
+          <a href="page.php?article=4">
+>>>>>>> 0be1f5464c6368316020fccbf22ee49f0f23fe31
             <img src="img/miniatures/contact-minia.jpg" alt="illusration contact" width="720px" height="480px"></img>
             <div class="carousel-caption">
               <h2>Nous contacter</h2>

@@ -41,6 +41,10 @@ else{
 		case 5:
 		include('include/navigation/nav_eco.php');
 		break;
+
+    case 6:
+		include('include/navigation/nav_orga.php');
+		break;
 	}
 	?>
 </div>
