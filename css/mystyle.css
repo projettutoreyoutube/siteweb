@@ -257,7 +257,15 @@ div.main_article{
   width: 50%;
   margin: 5% 25% 5% 25%;
 }
-
+div.presentation{
+	padding:0;
+	margin: 0;
+}
+img.presentation{
+	width:100%;
+  border: solid 1px black;
+  border-radius: 25px;
+}
 a.button {
 	background-color: #5D0806;
     color: white;
@@ -405,4 +413,25 @@ to {opacity: 1}
 
 .clear {
   height: 5em;
+}
+
+img.background{
+	border:solid 2px #5D0806;
+	height:150px;
+	width: 290px;
+	border-radius: 25px
+}
+a.raccourci{
+	color:black;
+	text-decoration: none;
+}
+
+div.raccourci{
+	padding: 25px;
+}
+div.lien{
+	height: 150px;
+	width:290px;
+	margin:auto;
+	text-align: center;
 }
