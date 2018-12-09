@@ -261,16 +261,18 @@ div.aside_right_title{
   padding-top: 15px;
   text-align: center;
   font-weight: bold;
-  text-decoration: underline;
+  font-size: 1.5em;
 }
 
 .description{
   padding-top: 20px;
   font-weight: bold;
+  align-self: center;
 }
 
 .legende{
-  padding-top: 24px;
+  align-self: center;
+  text-align: center;
 }
 
 div.ico_langage{
