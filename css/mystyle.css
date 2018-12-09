@@ -135,11 +135,20 @@ aside h2 {
     font-weight: bold;
 }
 
+aside li hr {
+  align-self: center;
+  text-align: center;
+}
+
+aside li span {
+  align-self: center;
+  text-align: left;
+}
+
 aside li * {
   font-weight: bold;
   font-size: 13px;
 }
-
 
 .element-center {
   align-self: center;

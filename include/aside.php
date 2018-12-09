@@ -29,8 +29,8 @@ else{
     </div>
   </div>
   <div class="row">
-    <div class="col-md-12 element-center">
-      <ul class="element-center">
+    <nav class="col-md-12 element-center">
+      <ul>
         <li><hr></li>
         <li class="histoire"><a href="index.php?partie=1"><i class="fa fa-book-open"></i><span>Histoire</span></a></li>
         <li class="poids"><a href="index.php?partie=2"><i class="fa fa-balance-scale"></i><span>Poids dans la société</span></a></li>
@@ -43,6 +43,6 @@ else{
         <li class="contact"><a href="page.php?article=4"><i class="fa fa-comments "></i><span>Contactez-nous</span></a></li>
         <li><hr></li>
       </ul>
-    </div>
+    </nav>
   </div>
 </aside>
