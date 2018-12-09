@@ -1,3 +1,11 @@
+<style>
+  img.graph1{
+    width:200px;
+    float: left;
+  }
+</style>
+
+
 <div class="corps_texte">
   <div class="main_title">
     Qu'est-ce qu'un youtubeur ?
@@ -29,8 +37,32 @@
     Pour résumer : toute activité dont on peut tirer un revenu, à condition que cette activité soit reconnue par la loi.<br />
     <br />
     <strong>Le cas des youtubeurs :</strong><br />
+    <img class="graph1" src="img/metier/graph-1.png"><br />
     Dans le sondage que nous avons réalisé, nous avons posé la question suivante : pensez vous que youtubeur soit un métier ? <br />
-    Sur 429 réponses enregistrées, 322 personnes pensent « oui » (soit environ 75%) et 107 pensent « non ».<br />
+    Sur 429 réponses enregistrées, 322 personnes pensent « oui » (soit environ 75%) et 107 pensent « non ».<br/>
+    Une grande majorité des personnes interrogées pensent que youtubeur est un métier à part entière. Cependant nous pouvons nous pencher sur l’âge des personnes ayant répondu à ce sondage. En effet, la plupart sont des jeunes étudiants ayant grandi avec YouTube.<br/>
+    <br/>
+    <br/>
+    <br/>
+
+    Les principaux arguments (pertinents) avancés sont :<br />
+    <ul>Pour le oui :
+      <li>Les youtubeurs fournissent un contenu qui demande du temps et du travail.</li>
+      <li>Ils sont rémunérés pour ce contenu. </li>
+      <li>La plupart des youtubeurs sont entrepreneurs (nous y reviendrons plus tard).</li> 
+      <li>Les grosses vidéos nécessitent la mise en place d’équipes de production, d’acteurs et de beaucoup de matériel.</li>
+    </ul>
+    <ul>Pour le non :
+      <li>Être youtubeur est une passion, pas un métier.</li> 
+      <li>N’importe qui peut faire des vidéos dans sa chambre.</li> 
+      <li>Activité très superficielle basée sur la popularité, et donc extrêmement précaire.</li>
+      <li>C’est hypocrite de gagner de l’argent en faisant des vidéos dans sa chambre alors que d’autres ont un travail très difficile tel agriculteur ou ouvrier.</li>
+    </ul>
+
+Ce sondage nous a permis de voir comment la société percevait l’activité de youtubeur (même si notre échantillon comporte beaucoup d’étudiants). Nous pouvons voir que les générations n’ayant pas grandi avec YouTube ont plus de mal à reconnaitre cette activité comme un réel métier. En revanche, les jeunes générations pensent à une écrasante que youtubeur est un métier à part entière.
+
+Il est désormais temps de nous pencher sur les aspect économico-légaux de cette activité.
+
 
   </div>
   

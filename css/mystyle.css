@@ -492,10 +492,10 @@ p.sign{
 }
 
 .carousel-control-prev {
-  cursor: w-resize
+  cursor: pointer;
 }
 
 .carousel-control-next {
-  cursor: e-resize;
+  cursor: pointer;
 }
 /* fin caroussel */
