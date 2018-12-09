@@ -259,6 +259,10 @@ img.presentation{
   border-radius: 25px;
 }
 
+.aside_right{
+  padding-bottom: 15px;
+}
+
 div.aside_right_title{
   padding-top: 15px;
   text-align: center;
@@ -446,18 +450,19 @@ p.sign{
   width: 100%;
 }
 
-
- .shwadow *{
-   text-shadow: 1px 1px black;
- }
-
 .carousel img {
   height: 500px;
   width: 100%;
 }
 
+.white-tv * {
+  color: white;
+  text-shadow: 1px 1px black;
+}
+
 .black-tv * {
   color: black;
+  text-shadow: 1px 1px white;
 }
 
 .carousel-item p {

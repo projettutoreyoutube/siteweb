@@ -32,7 +32,8 @@
                   <li class="metier"><a href="index.php?partie=4"><i class="fa fa-user-tie"></i><span>Le métier de youtubeur</span></a></li>
                   <li class="eco"><a href="index.php?partie=5"><i class="fa fa-dollar-sign"></i><span>Modèle économique de YouTube</span></a></li>
                   <li class="orga"><a href="index.php?partie=6"><i class="fa fa-sitemap"></i><span>Organisation de l'entreprise YouTube</span></a></li>
-                  <li class="contact"><a href="page.php"><i class="fa fa-comments "></i><span>Contactez-nous</span></a></li>
+                  <li class="tech"><a href="page.php"><i class="fa fa-wrench "></i><span>Partie technique</span></a></li>
+                  <li class="contact"><a href="page.php?article=4"><i class="fa fa-comments "></i><span>Contactez-nous</span></a></li>
                 </ul>
               </li>
             </ul>
@@ -82,7 +83,7 @@
         </div>
       </main>
 
-      <aside class="d-none d-md-block col-md-2">
+      <aside class="d-none d-md-block col-md-2 aside_right">
           <div class="aside_right_title">
             <span>Powered by</span>
           </div>
@@ -91,7 +92,7 @@
               <img class="ico_langage" src="img/ico_langage/html_ico.png" alt="image barre"/>
             </div>
             <div class="col-md-12 col-sm-12 legende">
-              HTML 5
+              <span>HTML 5</span>
             </div>
           </div>
 
@@ -100,7 +101,7 @@
               <img class="ico_langage" src="img/ico_langage/css_ico.png" alt="image barre"/>
             </div>
             <div class="col-md-12 col-sm-12 legende">
-              CSS3
+              <span>CSS3</span>
             </div>
           </div>
 
@@ -109,7 +110,7 @@
               <img class="ico_langage" src="img/ico_langage/js_ico.png" alt="image barre"/>
             </div>
             <div class="col-md-12 col-sm-12 legende">
-              Javascript
+              <span>Javascript</span>
             </div>
           </div>
 
@@ -118,7 +119,7 @@
               <img class="ico_langage" src="img/ico_langage/php_ico.png" alt="image barre"/>
             </div>
             <div class="col-md-12 col-sm-12 legende">
-              PHP
+              <span>PHP</span>
             </div>
           </div>
       </aside>
