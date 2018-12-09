@@ -46,6 +46,7 @@ else{
 
   </div>
 
-  <div class="clear"></div>
-  <div class="clear"></div>
+  <div class="row">
+    <hr class="col-md-8">
+  </div>
 </aside>

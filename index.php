@@ -63,21 +63,25 @@
             break;
           }
           ?>
-        </div>
-        <div class="row clear"></div>
-        <div class="row element-bottom">
-          <div class="col-md-6">
+          <div class="row">
+          <div class="col-md-6 element-center">
             <a class="button up" href="#top">Retour en haut</a>
           </div>
-          <div class="col-md-6">
-             <a class="button back" href="index.php">Retour à l'accueil</a>
+          <div class="col-md-6 element-center">
+            <a class="button back" href="index.php">Retour à l'accueil</a>
           </div>
+        </div>
         </div>
       </main>
 
+      <aside class="d-none d-md-block col-md-3">
+
+      </aside>
+
     </div>
+
   </div>
 
-  <?php include('include/footer.php'); ?>
+<?php include('include/footer.php'); ?>
 </body>
 </html>
