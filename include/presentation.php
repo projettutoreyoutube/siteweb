@@ -74,7 +74,7 @@
           </a>
   			</div>
 
-        <div class="carousel-item shwadow">
+        <div class="carousel-item white-tv">
           <a href="page.php">
             <img src="img/miniatures/banner-minia.png" alt="illusration partie technique" width="720px" height="480px"></img>
             <div class="carousel-caption">
@@ -83,8 +83,8 @@
             </div>
           </a>
   			</div>
-        
-        <div class="carousel-item shwadow">
+
+        <div class="carousel-item white-tv">
           <a href="page.php?article=4">
             <img src="img/miniatures/contact-minia.jpg" alt="illusration contact" width="720px" height="480px"></img>
             <div class="carousel-caption">
