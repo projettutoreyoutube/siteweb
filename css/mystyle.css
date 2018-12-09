@@ -499,3 +499,24 @@ p.sign{
   cursor: pointer;
 }
 /* fin caroussel */
+
+/* debut back to the top button */
+
+#toTheTop {
+  cursor: pointer;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  display:none;
+  z-index: 1;
+  font-size: 3em;
+  width:25px;
+  height: 25px;
+  color: black;
+}
+
+#toTheTop:hover {
+  color: #888A85;
+}
+
+/* debut back to the top button */
