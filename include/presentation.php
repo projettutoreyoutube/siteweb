@@ -9,6 +9,8 @@
         <li data-target="#carousel-example-generic" data-slide-to="3"></li>
         <li data-target="#carousel-example-generic" data-slide-to="4"></li>
         <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="6"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="7"></li>
   		</ol>
 
   		<div class="carousel-inner shwadow" role="listbox">
@@ -48,6 +50,26 @@
             <div class="carousel-caption">
               <h2>Métier de youtubeur</h2>
               <p>Mettez-vous dans la peau d'un youtubeur !</p>
+            </div>
+          </a>
+  			</div>
+
+        <div class="carousel-item shwadow">
+          <a href="index.php?partie=5">
+            <img src="img/eco/eco.jpg" alt="illusration métier de youtubeur" width="720px" height="480px"></img>
+            <div class="carousel-caption">
+              <h2>Modèle économique</h2>
+              <p>Découvrez le modèle économique de YouTube !</p>
+            </div>
+          </a>
+  			</div>
+
+        <div class="carousel-item black-tv">
+          <a href="index.php?partie=6">
+            <img src="img/orga/orga_presentation.jpg" alt="illusration métier de youtubeur" width="720px" height="480px"></img>
+            <div class="carousel-caption">
+              <h2>Organisation de l'entreprise</h2>
+              <p>Etudiez plus en détails son organisation' !</p>
             </div>
           </a>
   			</div>
