@@ -1,15 +1,33 @@
 <div class="corps_texte">
   <div class="main_title">
-    Bienvenue dans la partie qui parle du métier de Youtubeur
+    Le métier de Youtubeur
   </div>
 
   <div class="content">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Que pensez-vous des youtubeurs ? Comment se comportent-t-ils par rapport à la loi ? Combien gagnent-ils- ? Vous êtes au bon endroit pour tout savoir des youtubeurs !
+  </div>
+
+  <div class="row col-lg-12 miniatures">
+    <div class="col-lg-4 col-md-6 raccourci">
+      <div class="lien">
+        <a class="img" href="index.php"><img class="background" src="img/miniatures/accueil-minia.png" alt="background pour lien"></a>
+        <a class="raccourci" href="accueil.php">Retour à l'accueil</a>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 raccourci">
+      <div class="lien">
+        <a class="img" href="page.php?article=1"><img class="background" src="img/miniatures/rapport-minia.PNG" alt="background pour lien"></a>
+        <a class="raccourci" href="page.php?article=1">Notre rapport</a>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 raccourci">
+      <div class="lien">
+        <a class="img" href="page.php?article=2"><img class="background" src="img/miniatures/banner-minia.png" alt="background pour lien"></a>
+        <a class="raccourci" href="page.php?article=2">Notre site</a>
+      </div>
+    </div> 
+
+
   </div>
 
   <div class="row">

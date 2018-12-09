@@ -223,7 +223,9 @@ div.main_article{
 .main_title{
   font-weight: bold;
   font-size: 30px;
-  margin-left: 20px
+  margin-left: 20px;
+  padding:15px;
+  padding-bottom: 0;
 }
 
 .main_subtitle{
@@ -306,7 +308,34 @@ a.button:hover {
     padding: 16px 32px;
 }
 
+/*
+----- Mise en page des images partie -----
+*/
 
+
+div.raccourci{
+  padding: 25px;
+}
+div.lien{
+  height: 150px;
+  width:290px;
+  margin:auto;
+  text-align: center;
+}
+a.img{
+  border-radius: 25px;
+}
+a.raccourci{
+  color:black;
+  text-decoration: none;
+
+}
+img.background{
+  border:solid 2px #5D0806;
+  height:150px;
+  width: 290px;
+  border-radius: 25px
+}
 
 
 /*
