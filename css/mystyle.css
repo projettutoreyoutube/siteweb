@@ -257,6 +257,10 @@ img.presentation{
   border-radius: 25px;
 }
 
+.aside_right{
+  padding-bottom: 15px;
+}
+
 div.aside_right_title{
   padding-top: 15px;
   text-align: center;

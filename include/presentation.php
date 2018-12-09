@@ -84,8 +84,6 @@
           </a>
   			</div>
         
-        <div class="carousel-item white-tv">
-          <a href="index.php?partie=6">
         <div class="carousel-item shwadow">
           <a href="page.php?article=4">
             <img src="img/miniatures/contact-minia.jpg" alt="illusration contact" width="720px" height="480px"></img>
