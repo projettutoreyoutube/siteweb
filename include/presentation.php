@@ -1,4 +1,3 @@
-<div class="clear"></div>
 <div class="slideshow-container">
   <div class="mySlides fade">
     <a href="http://www.iut-bm.univ-fcomte.fr/pages/fr/dpt-info---actualites-17109.html"><img src="img/logo_info.png" width="80%" height="20%"></a>
@@ -25,3 +24,4 @@ function showSlides() {
   setTimeout(showSlides, 3000);
 }
 </script>
+</div>
