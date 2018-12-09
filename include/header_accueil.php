@@ -68,27 +68,27 @@ else{
 <?php
 switch($partie){
   case 0:
-  include('include/navigation/nav_presentation.php');
+  include('include/navigation/mini_nav_presentation.php');
   break;
 
   case 1:
-  include('include/navigation/nav_histoire.php');
+  include('include/navigation/mini_nav_histoire.php');
   break;
 
   case 2:
-  include('include/navigation/nav_societe.php');
+  include('include/navigation/mini_nav_societe.php');
   break;
 
   case 3:
-  include('include/navigation/nav_dangers.php');
+  include('include/navigation/mini_nav_dangers.php');
   break;
 
   case 4:
-  include('include/navigation/nav_metier.php');
+  include('include/navigation/mini_nav_metier.php');
   break;
 
   case 5:
-  include('include/navigation/nav_eco.php');
+  include('include/navigation/mini_nav_eco.php');
   break;
 
   case 6:

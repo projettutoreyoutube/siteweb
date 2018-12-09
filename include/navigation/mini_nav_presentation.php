@@ -5,10 +5,10 @@
 	}
 </style>
 
-<div class="d-none d-md-block col-md-12 nav-header">
-	<div class="container top">
+
+
+<div class="d-block d-md-none row">
 		<nav class="col-md-12 nav ">
 			<div class="col-md-12 bvn">Bienvenue sur notre site Web</div>
 		</nav>
-	</div>
 </div>
