@@ -91,7 +91,7 @@
               <img class="ico_langage" src="img/ico_langage/html_ico.png" alt="image barre"/>
             </div>
             <div class="col-md-12 col-sm-12 legende">
-              HTML 5
+              <span>HTML 5</span>
             </div>
           </div>
 
@@ -100,7 +100,7 @@
               <img class="ico_langage" src="img/ico_langage/css_ico.png" alt="image barre"/>
             </div>
             <div class="col-md-12 col-sm-12 legende">
-              CSS3
+              <span>CSS3</span>
             </div>
           </div>
 
@@ -109,7 +109,7 @@
               <img class="ico_langage" src="img/ico_langage/js_ico.png" alt="image barre"/>
             </div>
             <div class="col-md-12 col-sm-12 legende">
-              Javascript
+              <span>Javascript</span>
             </div>
           </div>
 
@@ -118,7 +118,7 @@
               <img class="ico_langage" src="img/ico_langage/php_ico.png" alt="image barre"/>
             </div>
             <div class="col-md-12 col-sm-12 legende">
-              PHP
+              <span>PHP</span>
             </div>
           </div>
       </aside>
