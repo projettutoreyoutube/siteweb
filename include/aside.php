@@ -42,7 +42,8 @@ else{
       <div class="row">
         <hr class="col-md-8">
       </div>
-      <li class="contact"><a href="page.php"><i class="fa fa-comments "></i><span>Contactez-nous</span></a></li>
+      <li class="tech"><a href="page.php"><i class="fa fa-wrench "></i><span>Partie technique</span></a></li>
+      <li class="contact"><a href="page.php?article=4"><i class="fa fa-comments "></i><span>Contactez-nous</span></a></li>
     </ul>
 
   </div>
