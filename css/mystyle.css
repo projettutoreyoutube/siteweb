@@ -220,7 +220,6 @@ nav.navigation_partie a{
 .partie{
   color: white;
   font-weight: bold;
-  margin-left: 10px;
 }
 
 div.main_article{
@@ -240,6 +239,7 @@ div.main_article{
 .main_subtitle{
   font-size: 20px;
   margin-left: 60px;
+  text-decoration: underline;
 }
 
 .content{

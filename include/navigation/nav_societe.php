@@ -1,8 +1,6 @@
 <div class="row">
 <nav class="navigation">
-  <a class="col-md-3 partie" href="index.php?partie=2&subpart=1">Partie1</a>
-  <a class="col-md-3 partie" href="index.php?partie=2&subpart=2">Partie2</a>
-  <a class="col-md-3 partie" href="index.php?partie=2&subpart=3">Partie3</a>
-  <a class="col-md-3 partie" href="index.php?partie=2&subpart=4">Partie4</a>
+  <a class="col-md-6 partie" href="index.php?partie=2&subpart=1">Audience et politique</a>
+  <a class="col-md-6 partie" href="index.php?partie=2&subpart=2">YouTube et les médias traditionnels</a>
 </nav>
 </div>
