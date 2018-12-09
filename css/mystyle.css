@@ -514,3 +514,22 @@ p.sign{
   border-radius: 0 1.5em 1.5em 0;
 }
 /* fin caroussel */
+
+div.left{
+    text-align: left;
+  }
+  a.left{
+    padding-top: 5px; padding-bottom: 5px;
+  }
+  a.left:hover{
+    padding-top: 5px; padding-bottom: 5px;
+  }
+  div.right{
+    text-align: right;
+  }
+  a.right{
+    padding-top: 5px; padding-bottom: 5px;
+  }
+  a.right:hover{
+    padding-top: 5px; padding-bottom: 5px;
+  }
