@@ -1,4 +1,5 @@
 <p class="col-sm-12 paragraph">
+  Vous trouverez plusieurs onglets sur cette page :<br />
 	<div class="row col-lg-12 miniatures">
 		<div class="col-lg-4 col-md-6 raccourci">
 			<div class="lien">
@@ -21,7 +22,7 @@
 		<div class="col-lg-4 col-md-6 raccourci">
 			<div class="lien">
 				<a class="img" href="index.php?partie=4"><img class="background" src="img/metier/metier_presentation.png" alt="background pour lien"></a>
-				<a class="raccourci" href="index.php?partie=4">Notre équipe</a>
+				<a class="raccourci" href="index.php?partie=4">Métier de Youtubeur</a>
 			</div>
 		</div>
 		<div class="col-lg-4 col-md-6 raccourci">

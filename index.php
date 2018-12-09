@@ -76,7 +76,7 @@
 
       <aside class="d-none d-md-block col-md-2">
           <div class="img_pub">
-            <img class="banner" src="img/oasis.gif" alt="image barre"/>
+  
           </div>
       </aside>
 
