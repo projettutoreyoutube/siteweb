@@ -1,5 +1,8 @@
 <div class="corps_texte">
   <div class="main_title">
+    Fonctionnalités premium
+  </div>
+  <div class="main_subtitle">
     L'offre "YouTube Red"
   </div>
 
@@ -14,7 +17,7 @@
       </div>
   </div>
 
-  <div class="main_title">
+  <div class="main_subtitle">
     La fonctionnalité "Rejoindre"
   </div>
 
@@ -24,7 +27,7 @@
     La souscription coûte en général autour de 5€ par mois ou plus, évidemment cette fonction est optionnelle et n’est pas disponible à tous les Youtubeurs: il faut que le contenu de la chaîne en question soit convenable par rapport à la charte de YouTube et qu’il soit approuvé par l’équipe de l’entreprise.
   </div>
 
-  <div class="main_title">
+  <div class="main_subtitle">
     Le "Superchat"
   </div>
 
@@ -38,8 +41,5 @@
   </div>
 
   <div class="row">
-  <div class="img-md">
-    <img class="banner" src="img/money_backgroung.jpg" alt="image barre"/>
-  </div>
 </div>
 </div>

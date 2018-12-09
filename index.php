@@ -89,7 +89,7 @@
           </div>
           <div class="row description">
             <div class="offset-md-3 col-md-6 col-sm-12">
-              <img class="ico_langage" src="img/ico_langage/html_ico.png" alt="image barre"/>
+              <a href="https://fr.wikipedia.org/wiki/HTML5"><img class="ico_langage" src="img/ico_langage/html_ico.png" alt="image barre"/></a>
             </div>
             <div class="col-md-12 col-sm-12 legende">
               <span>HTML 5</span>
@@ -98,7 +98,7 @@
 
           <div class="row description">
             <div class="offset-md-3 col-md-6 col-sm-12">
-              <img class="ico_langage" src="img/ico_langage/css_ico.png" alt="image barre"/>
+              <a href="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade"><img class="ico_langage" src="img/ico_langage/css_ico.png" alt="image barre"/></a>
             </div>
             <div class="col-md-12 col-sm-12 legende">
               <span>CSS3</span>
@@ -107,7 +107,7 @@
 
           <div class="row description">
             <div class="offset-md-3 col-md-6 col-sm-12">
-              <img class="ico_langage" src="img/ico_langage/js_ico.png" alt="image barre"/>
+              <a href="https://fr.wikipedia.org/wiki/JavaScript"><img class="ico_langage" src="img/ico_langage/js_ico.png" alt="image barre"/></a>
             </div>
             <div class="col-md-12 col-sm-12 legende">
               <span>Javascript</span>
@@ -116,7 +116,7 @@
 
           <div class="row description">
             <div class="offset-md-3 col-md-6 col-sm-12">
-              <img class="ico_langage" src="img/ico_langage/php_ico.png" alt="image barre"/>
+              <a href="https://fr.wikipedia.org/wiki/PHP"><img class="ico_langage" src="img/ico_langage/php_ico.png" alt="image barre"/></a>
             </div>
             <div class="col-md-12 col-sm-12 legende">
               <span>PHP</span>

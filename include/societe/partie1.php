@@ -1,5 +1,8 @@
 <div class="corps_texte">
   <div class="main_title">
+    Audience et politique
+  </div>
+  <div class="main_subtitle">
     L'audience: YouTube étend son public
   </div>
 
@@ -7,7 +10,7 @@
 En l’espace d’une quinzaine d’années, YouTube est devenu une référence en matière de diffusion de vidéos grand-public si bien qu’aujourd’hui l’audience de cette plate-forme est titanesque. En effet, YouTube compte actuellement plus de 1,5 milliards d’utilisateurs. Ces derniers passent chacun en moyenne une heure par jour à y regarder des vidéos. Les youtubeurs sont eux-aussi très actifs puisque chaque minute, 400 heures de vidéos sont téléversées sur YouTube ce qui revient à 600 000 heures de vidéos téléversées chaque jour. Afin d’obtenir des chiffres encore plus impressionnants nous pouvons ramener toutes ces données en années afin d’arriver à l’affirmation suivante :  « Chaque jour, les utilisateurs de YouTube totalisent 115 000 années passées à regarder des vidéos. ».
   </div>
 
-  <div class="main_title">
+  <div class="main_subtitle">
     YouTube utilisé comme outil politique
   </div>
 
@@ -16,8 +19,5 @@ En l’espace d’une quinzaine d’années, YouTube est devenu une référence 
   </div>
 
   <div class="row">
-  <div class="img-md">
-    <img class="banner" src="img/money_backgroung.jpg" alt="image barre"/>
-  </div>
 </div>
 </div>

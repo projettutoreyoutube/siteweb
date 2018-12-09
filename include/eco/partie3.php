@@ -1,5 +1,8 @@
 <div class="corps_texte">
   <div class="main_title">
+    Choix des contenus
+  </div>
+  <div class="main_subtitle">
     L’algorithme de choix des contenus, une « Business Machine » ?
   </div>
 
@@ -8,8 +11,5 @@
   </div>
 
   <div class="row">
-  <div class="img-md">
-    <img class="banner" src="img/money_backgroung.jpg" alt="image barre"/>
-  </div>
 </div>
 </div>
