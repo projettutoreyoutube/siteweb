@@ -1,28 +1,23 @@
 <div class="corps_texte">
   <div class="main_title">
-    L'offre "YouTube Red"
+    Critères juridiques
+  </div>
+
+  <div class="main_subtitle">
+    Définition du terme "juridique"
+  </div>
+  <div class="content">
+    Le mot « Juridique » est un adjectif qui qualifie tout ce qui peut avoir un rapport avec le Droit. C’est-à-dire, par exemple, des études juridiques, un conseil juridique, une revue juridique, une institution juridique ou bien une pratique juridique.
+  </div>
+
+  <div class="main_subtitle">
+    Statut juridique
   </div>
 
   <div class="content">
-    YouTube Red, récemment amélioré en “YouTube Premium” permet d'accéder à divers avantages sur la version web et sur téléphone tels que:<br>
-      <div class="content">
-        ●	L’accès à tout YouTube est ses différentes branches sans publicité.<br>
-        ●	La possibilité de télécharger des vidéos pour les regarder hors connexion.<br>
-        ●	La possibilité de lire des vidéos en arrière-plan ou lorsque le téléphone est verrouillé, parfait pour l’écoute de musique.<br>
-        ●	Un accès complet à Google Play Musique.<br>
-        ●	Un accès aux séries et longs métrages “YouTube Originals” exclusifs à cet   abonnement.
-      </div>
-  </div>
+    Le statut juridique est défini comme étant un ensemble de textes juridiques qui règlent la situation d’un groupe d’individus, leurs droits, leurs obligations. Il sert à distinguer les indépendants des autres catégories d’actifs qui sont essentiellement composés de salariés. En France, les entreprises peuvent adopter différents statuts comme
+    <span title="Entreprise Unipersonnelle à Responsabilité Limitée"><strong>EURL</strong></span>, <span title="Société à Responsabilité Limitée"><strong>SARL</strong></span>, <span title="Société par Actions Simplifiée"><strong>SAS</strong></span> ou <span title="Société Anonyme"><strong>SA</strong></span>.
 
-  <div class="main_title">
-    La fonctionnalité "Rejoindre"
-  </div>
-
-  <div class="content">
-    Depuis peu, YouTube a ajouté la fonctionnalité “Rejoindre” pour les chaînes YouTube éligibles. Cette fonction permet de soutenir son Youtubeur favori à la manière des abonnements Twitch ou Patreon avec des paiements mensuels.        Cette souscription permet d'acheter des badges publics et des émoji exclusifs dans l’espace commentaires, ainsi que d'accéder aux avantages ponctuellement offerts par les créateurs sur le site et l'application YouTube principaux.
-    <br>
-    La souscription coûte en général autour de 5€ par mois ou plus, évidemment cette fonction est optionnelle et n’est pas disponible à tous les Youtubeurs: il faut que le contenu de la chaîne en question soit convenable par rapport à la charte de YouTube et qu’il soit approuvé par l’équipe de l’entreprise.
-  </div>
 
   <div class="main_title">
     Le "Superchat"
