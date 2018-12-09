@@ -24,7 +24,7 @@ else {
 <body id="top">
 
 	<?php
-		include 'Include/header_tech.php';
+		include 'include/header_tech.php';
 	?>
 
 	<div class="container mid" >
@@ -36,19 +36,19 @@ else {
 				{ 
 
 				case 0: 
-					include 'Include/technique/base.php'; // page normale
+					include 'include/technique/base.php'; // page normale
 				break;
 
 				case 1:
-					include 'Include/technique/rapport.php'; // page chaines ?
+					include 'include/technique/rapport.php'; // page chaines ?
 				break;
 
 				case 2:
-					include 'Include/technique/site.php'; // page des caractéristiques du site
+					include 'include/technique/site.php'; // page des caractéristiques du site
 				break;
 
 				case 3:
-					include 'Include/technique/groupe.php'; // page présentation du groupe
+					include 'include/technique/groupe.php'; // page présentation du groupe
 				break;
 
 				case 4:
@@ -56,7 +56,7 @@ else {
 				break;
 
 				case 5:
-					include 'Include/technique/bestof.php'; // page page best of sondages
+					include 'include/technique/bestof.php'; // page page best of sondages
 				break;
 
 				}
@@ -67,7 +67,7 @@ else {
 	</div>
 
 	<?php
-		include 'Include/footer.php';
+		include 'include/footer.php';
 	?>
 	
 </body>
