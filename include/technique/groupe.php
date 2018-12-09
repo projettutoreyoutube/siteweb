@@ -23,7 +23,7 @@
 </p>
 
 <h4 class="nom">Membre : Quentin Delignou</h4>
-<p class="col-sm-12 paragraph">
+<p class="col-sm-12 paragraph" title="Indice: utiliser un traducteur de morse">
 	<img src="img/photo/quentin.jpg" alt="photo de Quentin" class="photo">
 	<br>
 	−··· −−− −· ·−−− −−− ··− ·−· −−··−−  <br>
