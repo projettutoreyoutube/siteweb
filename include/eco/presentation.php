@@ -1,13 +1,13 @@
 <div class="corps_texte">
   <div class="main_title">
-    Bienvenue sur la partie eco de YouTube
+    Bienvenue sur la partie "Modèle Economique" de YouTube
   </div>
   <div class="content">
-    Cette partie du site a pour but de présenter l'entreprise YouTube LLC d'un point de vue histoire : vous pourrez y trouver quelques détails sur sa création ainsi que son parcours au fil des années
+    Sur cette partie du site, nous verrons le modèle économique de YouTube, mais surtout, quelles sont ses sources de revenus.
   </div>
   <div class="row">
   <div class="img-md">
-    <img class="presentation" src="img/histoire/histoire_presentation.jpg" alt="image barre"/>
+    <img class="presentation" src="img/eco/eco.jpg" alt="image barre"/>
   </div>
 </div>
 </div>

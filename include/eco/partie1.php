@@ -1,15 +1,19 @@
 <div class="corps_texte">
   <div class="main_title">
-    La création en 2005
+    La publicité et la monétisation des vidéos
   </div>
   <div class="content">
-    La société YouTube LLC a été fondée en 2005 par trois ex-employés de l’entreprise PayPal: Chad HURLEY, Steve CHEN et Jawed KARIM. À l’origine, l’idée a été de créer un site de rencontre basé sur l’utilisation de vidéos. Les créateurs ont finalement renoncé à cette idée quelques jours après le lancement public de la plate-forme.
+    La majeure partie des revenus d’un Youtubeur proviennent des publicités qui passent avant et pendant leurs vidéos, à une condition : que la chaîne et la vidéo en question soient éligibles à la monétisation. Depuis le 16 janvier 2018, YouTube a annoncé l'application de nouveaux critères d'éligibilité pour le Programme Partenaire YouTube, qui permet de monétiser ses vidéos. Dès qu'une chaîne atteint 4 000 heures de visionnage au cours des 12 derniers mois et 1 000 abonnés, l’équipe de YouTube l'examine afin de déterminer si elle peut rejoindre le programme et ainsi générer des revenus grâce à ses vidéos. Une fois cette étape remplie, le Youtubeur doit créer un compte AdSense ou associer un compte existant à sa chaîne. AdSense est la régie publicitaire de Google utilisant les sites web ou les vidéos YouTube comme support pour ses annonces. Le youtubeur doit obligatoirement effectuer cette étape pour générer des revenus grâce à ses vidéos et être rémunéré. Vous serez payés chaque fois que vos revenus atteindront le seuil de paiement applicable à votre pays. Il s'agit du montant des coûts atteint par votre compte afin que la facturation associée à ces coûts soit déclenchée. Ce seuil de paiement varie en fonction de la taille et le pays du youtubeur.
   </div>
   <div class="main_title">
-    Le rachat par Google en 2006
+    Les opérations de sponsoring
   </div>
   <div class="content">
-    Le 9 octobre 2006, YouTube a été racheté par Google pour 1,65 millions de dollars américains. Cette opération a préservé 67 salariés de YouTube dont Chad HURLEY et Steve Chen.
+    Une autre façon de générer des revenus sur YouTube est de trouver un sponsor, par exemple, l’entreprise GrapeVine a déjà envoyé quatre millions de dollars à de divers Youtubeurs via sponsoring. Évidemment, cette alternative est réservée aux youtubeurs qui ont un minimum d’influence (certains sponsors commencent à sponsoriser des Youtubeurs à partir de 10000 abonnés). Ce sponsoring se met en œuvre le plus souvent par un placement de produit en début de vidéo ou même tout au long de celle-ci. Par exemple un essai de produits cosmétiques dans une chaîne de “tutos beauté” ou même l’essai d’un jeu vidéo dans une chaîne ayant une audience de joueurs.
+  </div>
+  <div class="content">
+    Les sponsorings sur YouTube sont de loin le type de publicité le plus efficace: le fait de voir quelqu’un l’utiliser à notre place de façon crédible nous donne assez d’information sur l'intérêt de l’achat du produit du sponsor.
+
   </div>
   <div class="img-md">
     <img class="banner" src="img/money_backgroung.jpg" alt="image barre"/>
