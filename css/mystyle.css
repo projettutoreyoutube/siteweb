@@ -414,6 +414,8 @@ p.sign{
 /* debut caroussel */
 .tv {
   padding: 0;
+  margin: 50px auto 50px auto;
+  display:block;
 }
 
 .carousel-inner {
