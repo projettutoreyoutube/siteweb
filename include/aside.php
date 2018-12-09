@@ -35,10 +35,10 @@ else{
     <ul class="element-left">
       <li class="histoire"><a href="index.php?partie=1"><i class="fa fa-book-open"></i><span>Histoire</span></a></li>
       <li class="poids"><a href="index.php?partie=2"><i class="fa fa-balance-scale"></i><span>Poids dans la société</span></a></li>
-      <li class="danger"><a href="index.php?partie=3"><i class="fa fa-exclamation-triangle"></i><span>Les dangers et limites</span></a></li>
-      <li class="metier"><a href="index.php?partie=4"><i class="fa fa-user-tie"></i><span>Le métier de youtubeur</span></a></li>
-      <li class="eco"><a href="index.php?partie=5"><i class="fa fa-dollar-sign"></i><span>Modèle économique de YouTube</span></a></li>
-      <li class="orga"><a href="index.php?partie=6"><i class="fa fa-sitemap"></i><span>Organisation de l'entreprise YouTube</span></a></li>
+      <li class="danger"><a href="index.php?partie=3"><i class="fa fa-exclamation-triangle"></i><span>Dangers et limites</span></a></li>
+      <li class="metier"><a href="index.php?partie=4"><i class="fa fa-user-tie"></i><span>Métier de youtubeur</span></a></li>
+      <li class="eco"><a href="index.php?partie=5"><i class="fa fa-dollar-sign"></i><span>Modèle économique</span></a></li>
+      <li class="orga"><a href="index.php?partie=6"><i class="fa fa-sitemap"></i><span>Organisation</span></a></li>
       <div class="row">
         <hr class="col-md-8">
       </div>
