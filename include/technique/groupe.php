@@ -15,6 +15,8 @@
 <h4 class="nom">Chef de projet : Loïc Bertrand</h4>
 <p class="col-sm-12 paragraph">
 	<img src="img/photo/loic.jpg" alt="photo de Loïc" class="photo">
+	<br>
+	<br>
 	Je m'appelle Loïc, j'ai 20 ans. Après une première année à l'Université de Technologie de Belfort-Montbéliard, j'ai décidé de me réorienter vers un DUT informatique.
 	J'ai choisi cette nouvelle voie afin d'aborder une approche plus technique de l'informatique.
 	Au travers de cette nouvelle formation, je cultive et je mets en pratique des notions qui me passionnent.
@@ -23,10 +25,11 @@
 <h4 class="nom">Membre : Quentin Delignou</h4>
 <p class="col-sm-12 paragraph">
 	<img src="img/photo/quentin.jpg" alt="photo de Quentin" class="photo">
-	−··· −−− −· ·−−− −−− ··− ·−· −−··−−  <br/>
+	<br>
+	−··· −−− −· ·−−− −−− ··− ·−· −−··−−  <br>
 	·−−− ·  −− ·−−−−· ·− ·−−· ·−−· · ·−·· ·−·· ·  −−·− ··− · −· − ·· −· −−··−−  ·−−− ·−−−−· ·− ··  ··−−− −−−−−  ·− −· ··· ·−·−·− <br />
 	·−−− ·−−−−· ·− ·· −− ·  ·−·· · ···  −− ·− −· −−· ·− ··· −−··−−  ·−·· · ···  ·−−− · ··− −··−  ···− ·· −·· ··−·· −−− ···  · −  ·−·· ·−  −· −··· ·− ·−·−·− <br />
-	···− −−− ·· ·−·· ·−  ·−−− ·  ··· ·− ·· ···  ·−−− ·− −− ·− ·· ···  −−·− ··− −−− ··  −·· ·· ·−· ·  −·· ·−−−−· ·− ··− − ·−· ·  −−·− ··− ·− −· −··  ·−−− ·  −·· −−− ·· ···  −− ·  ·−−· ·−· ··−·· ··· · −· − · ·−·  ·−·−·− ·−·−·− ·−·−·− 
+	···− −−− ·· ·−·· ·−  ·−−− ·  ··· ·− ·· ···  ·−−− ·− −− ·− ·· ···  −−·− ··− −−− ··  −·· ·· ·−· ·  −·· ·−−−−· ·− ··− − ·−· ·  −−·− ··− ·− −· −··  ·−−− ·  −·· −−− ·· ···  −− ·  ·−−· ·−· ··−·· ··· · −· − · ·−·  ·−·−·− ·−·−·− ·−·−·−
 </p>
 
 <h4 class="nom">Membre : Tom Jacob</h4>
