@@ -8,4 +8,5 @@
 			<a class="col-md-3 top" href="index.php?partie=3&subpart=4">Partie4</a>
 		</nav>		
 	</div>
+</div>
 
