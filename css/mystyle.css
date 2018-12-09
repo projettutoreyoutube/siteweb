@@ -229,19 +229,20 @@ div.main_article{
 .main_title{
   font-weight: bold;
   font-size: 30px;
-  margin-left: 20px;
   padding:15px;
-  padding-bottom: 0;
+  text-align: center;
 }
 
 .main_subtitle{
   font-size: 20px;
-  margin-left: 60px;
-  text-decoration: underline;
+  padding-left:60px;
+  padding-top:15px;
+  font-weight: bold;
 }
 
 .content{
-  padding: 20px 30px 20px 30px;
+  padding: 15px;
+  margin-bottom: 15px;
   text-align: justify;
 }
 

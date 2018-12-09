@@ -1,29 +1,37 @@
 <div class="corps_texte">
   <div class="main_title">
-    Ceci est une présentation de grande partie (Partie 1)
+    Qu'est-ce qu'un youtubeur ?
   </div>
   <div class="main_subtitle">
-    Blah blah blah vraiment intéréssant
+    Bref historique
   </div>
   <div class="content">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Le terme youtubeur est apparu en 2006 (donc peu de temps après la création de YouTube), aux Etats-Unis, et s’est progressivement répandu à travers le monde. En France, les précurseurs de ce modèle sont par exemple, Cyprien, Norman (respectivement 1er et 3ème aux nombres d’abonnés sur leurs chaines en France) ou Hugo.<br />
+    Il y a 10 ans, moment où ces vidéastes sont apparus, YouTube n’est pas encore le géant qu’il est aujourd’hui. En effet, tout le monde n’a pas de smartphone avec internet en 4G (et donc un accès direct à la plateforme) dans sa poche. <br />
+    <br />
+    L’histoire commence par quelques vidéos, filmées « à l’arrache » dans leur chambre, avec du matériel de faible qualité. Postées sur YouTube, ces jeunes y racontent leur vie à travers des thèmes variés : Facebook, le tennis de table, les soirées, ... <br />
+    Si ces vidéos ne sont à la base qu’un amusement entre amis, l’engouement autour d’elles s’accroit, elles se retrouvent vues par de plus en plus de gens n’ayant aucun lien avec ces néo-youtubeurs. Pleines d’humour et accrocheuses, elles sont alors partagées de manière croissante chaque jour. Elles totalisent aujourd’hui plusieurs dizaines de millions de vues.<br />
+    Cette nouvelle, et soudaine, notoriété est très bien gérée par les vidéastes d’alors, et ils continuent de produire du contenu de qualité et de manière régulière.<br />
+    <br />
+    Dans le même temps, une autre personne lance sa chaîne YouTube. Il s’appelle Squeezie, et ne fait alors pas le « buzz » des Cyprien et autre Norman, mais il va devenir au fil du temps le « plus gros » youtubeur français.<br />
+    <br />
+    En 2011, le modèle économique de YouTube se met en place, et ces vidéastes commencent à percevoir des revenus sur les vidéos qu’ils postent, et peuvent alors en vivre. <br />
+    Dès lors, on peut s’interroger sur la nature de l’activité d’un youtubeurs.
   </div>
-  <div class="content-2">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+  <div class="main_subtitle">
+    Youtubeur : est-ce un métier ?
   </div>
-  <div class="row">
-  <div class="img-md">
-    <img class="banner" src="img/money_backgroung.jpg" alt="image barre"/>
+  <div class="content">
+    <strong>Définition d'un métier :</strong><br />
+    Après une rapide recherche dans un Larousse datant de 2005 (avant que le terme « youtubeur » apparaisse), nous trouvons ceci :<br />
+    Métier : profession caractérisée par une spécificité exigeant une formation, de l’expérience, etc., et entrant dans une cadre légal ; toute activité dont on tire des moyens d’existence.<br />
+    Pour résumer : toute activité dont on peut tirer un revenu, à condition que cette activité soit reconnue par la loi.<br />
+    <br />
+    <strong>Le cas des youtubeurs :</strong><br />
+    Dans le sondage que nous avons réalisé, nous avons posé la question suivante : pensez vous que youtubeur soit un métier ? <br />
+    Sur 429 réponses enregistrées, 322 personnes pensent « oui » (soit environ 75%) et 107 pensent « non ».<br />
+
   </div>
-</div>
+  
 </div>

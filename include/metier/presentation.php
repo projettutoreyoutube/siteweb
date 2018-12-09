@@ -10,20 +10,20 @@
   <div class="row col-lg-12 miniatures">
     <div class="col-lg-4 col-md-6 raccourci">
       <div class="lien">
-        <a class="img" href="index.php"><img class="background" src="img/metier/cquoi.png" alt="background pour lien"></a>
-        <a class="raccourci" href="accueil.php">Qu'est-ce qu'un youtubeur ?</a>
+        <a class="img" href="index.php?partie=4&subpart=1"><img class="background" src="img/metier/cquoi.png" alt="background pour lien"></a>
+        <a class="raccourci" href="index.php?partie=4&subpart=1">Qu'est-ce qu'un youtubeur ?</a>
       </div>
     </div>
     <div class="col-lg-4 col-md-6 raccourci">
       <div class="lien">
-        <a class="img" href="page.php?article=1"><img class="background" src="img/miniatures/rapport-minia.PNG" alt="background pour lien"></a>
-        <a class="raccourci" href="page.php?article=1">Le youtubeur face à la loi</a>
+        <a class="img" href="index.php?partie=4&subpart=2"><img class="background" src="img/metier/loi.PNG" alt="background pour lien"></a>
+        <a class="raccourci" href="index.php?partie=4&subpart=2">Le youtubeur face à la loi</a>
       </div>
     </div>
     <div class="col-lg-4 col-md-6 raccourci">
       <div class="lien">
-        <a class="img" href="page.php?article=2"><img class="background" src="img/miniatures/banner-minia.png" alt="background pour lien"></a>
-        <a class="raccourci" href="page.php?article=2">Le youtubeur et ses revenus</a>
+        <a class="img" href="index.php?partie=4&subpart=3"><img class="background" src="img/metier/argent.jpg" alt="background pour lien"></a>
+        <a class="raccourci" href="index.php?partie=4&subpart=3">Le youtubeur et ses revenus</a>
       </div>
     </div> 
 
