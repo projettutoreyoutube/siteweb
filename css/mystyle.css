@@ -498,7 +498,19 @@ p.sign{
   cursor: pointer;
 }
 
+.carousel-control-prev:hover {
+  background-color: black;
+  opacity: 0.25;
+  border-radius: 1.5em 0 0 1.5em;
+}
+
 .carousel-control-next {
   cursor: pointer;
+}
+
+.carousel-control-next:hover {
+  background-color: black;
+  opacity: 0.25;
+  border-radius: 0 1.5em 1.5em 0;
 }
 /* fin caroussel */
