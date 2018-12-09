@@ -22,8 +22,12 @@
 
 <h4 class="nom">Remarques de Tom Jacob</h4>
 <p class="col-sm-12 paragraph">
-
-</p>
+	Même si à la base, nous avions pleins d'idées quand nous avons réalisé notre prototype, nous avons eu énormément d'autres idées pendant la réalisation. Ce site étant mon premier, je reste quand même très fier de mon travail et surtout de notre travail à tous.
+	<br /><br />
+	<strong>Difficultés rencontrés :</strong>
+	<li class="paragraph">Tout comme Quentin, je voulais positionner la barre de navigation en haut lors du scrollage : c'est à dire que lorsque l'on scroll vers le bas, la barre de navigation reste "collée" en haut. A l'aide des recherches de Quentin, j'ai pu réaliser, non sans mal, cette fonctionnalité.
+	<br> Je n'ai pas eu d'autres problèmes particuliers durant la réalisation de mes parties, si ce n'est des problèmes d'affichage CSS, ou de fautes de frappes qui faisaient beuguer le PHP.</li>
+	</p>
 
 <h4 class="nom">Remarques de Erwan Vinot</h4>
 <p class="col-sm-12 paragraph">
