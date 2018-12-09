@@ -42,5 +42,5 @@
 				<a class="raccourci" href="page.php?article=5">Best-of</a>
 			</div>
 		</div>
-</div> 
+	</div> 
 </p>
