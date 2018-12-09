@@ -15,7 +15,7 @@ img.rapport{
 
 <p class="col-sm-12 paragraph">
 	<div class="img">
-		<img src="img/rapport.png" class="rapport" alt="Page de garde de notre rapport">
+		<img src="img/rapport.PNG" class="rapport" alt="Page de garde de notre rapport">
 	</div>
 </p>
 
