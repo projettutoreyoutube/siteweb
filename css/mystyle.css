@@ -245,9 +245,9 @@ div.main_article{
   text-align: justify;
 }
 
-.content-2{
-  padding: 20px 30px 20px 30px;
-  text-align: justify;
+figcaption{
+  text-align: center;
+  font-style: italic;
 }
 
 .row .img-md{
