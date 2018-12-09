@@ -53,7 +53,7 @@
   			</div>
 
         <div class="carousel-item shwadow">
-          <a href="index.php?partie=5">
+          <a href="page.php">
             <img src="img/miniatures/banner-minia.png" alt="illusration partie technique" width="720px" height="480px"></img>
             <div class="carousel-caption">
               <h2>Partie technique</h2>
@@ -63,7 +63,7 @@
   			</div>
 
         <div class="carousel-item shwadow">
-          <a href="index.php?partie=6">
+          <a href="page.php?article=4">
             <img src="img/miniatures/contact-minia.jpg" alt="illusration contact" width="720px" height="480px"></img>
             <div class="carousel-caption">
               <h2>Nous contacter</h2>
