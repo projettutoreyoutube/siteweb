@@ -233,6 +233,7 @@ div.main_article{
 
 .corps_texte{
   height: 100%;
+  border-bottom: solid 1px black;
 }
 
 .main_title{
@@ -435,6 +436,8 @@ p.sign{
 	margin:0;
 	text-align: center;
 }
+
+
 
 
 /* Fin mise en forme Footer
