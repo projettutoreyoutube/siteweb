@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <script src="js/jquery-3.3.1.js"></script>
+    <script src="js/bootstrap.js"></script>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/mystyle.css">
     <title>YouTube - Un Géant du Web</title>
@@ -76,8 +78,43 @@
       </main>
 
       <aside class="d-none d-md-block col-md-2">
-          <div class="img_pub">
+          <div class="aside_right_title">
+            Langages présents sur ce site Web
+          </div>
+          <div class="row description">
+            <div class="col-md-4">
+              <img class="ico_langage" src="img/ico_langage/html_ico.png" alt="image barre"/>
+            </div>
+            <div class="col-md-8 legende">
+              L'HTML 5
+            </div>
+          </div>
 
+          <div class="row description">
+            <div class="col-md-4">
+              <img class="ico_langage" src="img/ico_langage/css_ico.png" alt="image barre"/>
+            </div>
+            <div class="col-md-8 legende">
+              Le CSS3
+            </div>
+          </div>
+
+          <div class="row description">
+            <div class="col-md-4">
+              <img class="ico_langage" src="img/ico_langage/js_ico.png" alt="image barre"/>
+            </div>
+            <div class="col-md-8 legende">
+              Le Javascript
+            </div>
+          </div>
+
+          <div class="row description">
+            <div class="col-md-4">
+              <img class="ico_langage" src="img/ico_langage/php_ico.png" alt="image barre"/>
+            </div>
+            <div class="col-md-8 legende">
+              Le PHP
+            </div>
           </div>
       </aside>
 

@@ -1,69 +1,77 @@
-<p class="col-sm-12 paragraph">
-  Vous trouverez plusieurs onglets sur cette page :<br />
-	<div class="row col-lg-12 miniatures">
-		<div class="col-lg-4 col-md-6 raccourci">
-			<div class="lien">
-				<a class="img" href="index.php?partie=1"><img class="background" src="img/histoire/histoire_presentation.jpg" alt="background pour lien"></a>
-				<a class="raccourci" href="index.php?partie=1">Histoire</a>
-			</div>
-		</div>
-		<div class="col-lg-4 col-md-6 raccourci">
-			<div class="lien">
-				<a class="img" href="index.php?partie=2"><img class="background" src="img/poids/poids_presentation.jpg" alt="background pour lien"></a>
-				<a class="raccourci" href="index.php?partie=2">Poids dans la société</a>
-			</div>
-		</div>
-		<div class="col-lg-4 col-md-6 raccourci">
-			<div class="lien">
-				<a class="img" href="index.php?partie=3"><img class="background" src="img/dangers/dangers_presentation.jpeg" alt="background pour lien"></a>
-				<a class="raccourci" href="index.php?partie=3">Les dangers et les limites</a>
-			</div>
-		</div>
-		<div class="col-lg-4 col-md-6 raccourci">
-			<div class="lien">
-				<a class="img" href="index.php?partie=4"><img class="background" src="img/metier/metier_presentation.png" alt="background pour lien"></a>
-				<a class="raccourci" href="index.php?partie=4">Métier de Youtubeur</a>
-			</div>
-		</div>
-		<div class="col-lg-4 col-md-6 raccourci">
-			<div class="lien">
-				<a class="img" href="page.php"><img class="background" src="img/miniatures/banner-minia.png" alt="background pour lien"></a>
-				<a class="raccourci" href="page.php">Partie Technique</a>
-			</div>
-		</div>
-		<div class="col-lg-4 col-md-6 raccourci">
-			<div class="lien">
-				<a class="img" href="page.php?article=4"><img class="background" src="img/miniatures/contact-minia.jpg" alt="background pour lien"></a>
-				<a class="raccourci" href="page.php?article=4">Nous contacter</a>
-			</div>
-		</div>
-</div>
-</p>
+<div class="row row-tv">
+  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 col-xl-10 tv">
 
-<div class="slideshow-container">
-  <div class="mySlides fade">
-    <a href="http://www.iut-bm.univ-fcomte.fr/pages/fr/dpt-info---actualites-17109.html"><img src="img/logo_info.png" width="80%" height="20%"></a>
- </div>
+  	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  		<ol class="carousel-indicators">
+  			<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+  			<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+  			<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+  		</ol>
 
- <div class="mySlides fade">
-   <a href="https://www.youtube.com/"><img src="img/yt_carousel.png" width="50%" height="50%"></a>
- </div>
+  		<div class="carousel-inner shwadow" role="listbox">
+  			<div class="carousel-item active">
+  				<img src="img/histoire/histoire_presentation.jpg" alt="illustration histoire" width="720px" height="480px"></img>
+          <div class="carousel-caption">
+            <h2>Histoire</h2>
+            <p>Revivez le passé de YouTube !</p>
+          </div>
+  			</div>
 
+        <div class="carousel-item shwadow">
+  				<img src="img/poids/poids_presentation.jpg" alt="illustration poids dans la société" width="720px" height="480px"></img>
+          <div class="carousel-caption">
+            <h2>Poids dans la société</h2>
+            <p>Saisissez l'influence de YouTube !</p>
+          </div>
+  			</div>
 
-<script type="text/javascript">
-var slideIndex = 0;
-showSlides();
+        <div class="carousel-item black-tv">
+  				<img src="img/dangers/dangers_presentation.jpeg" alt="illusration dangers et limites" width="720px" height="480px"></img>
+          <div class="carousel-caption">
+            <h2>Les dangers et les limites</h2>
+            <p>Prenez-en conscience !</p>
+          </div>
+  			</div>
 
-function showSlides() {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
-  }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}
-  slides[slideIndex-1].style.display = "block";
-  setTimeout(showSlides, 3000);
-}
-</script>
+        <div class="carousel-item black-tv">
+  				<img src="img/metier/metier_presentation.png" alt="illusration métier de youtubeur" width="720px" height="480px"></img>
+          <div class="carousel-caption">
+            <h2>Métier de youtubeur</h2>
+            <p>Mettez-vous dans la peau d'un youtubeur !</p>
+          </div>
+  			</div>
+
+        <div class="carousel-item shwadow">
+  				<img src="img/miniatures/banner-minia.png" alt="illusration partie technique" width="720px" height="480px"></img>
+          <div class="carousel-caption">
+            <h2>Partie technique</h2>
+            <p>Découvrez les coulisses du projet !</p>
+          </div>
+  			</div>
+
+        <div class="carousel-item shwadow">
+  				<img src="img/miniatures/contact-minia.jpg" alt="illusration contact" width="720px" height="480px"></img>
+          <div class="carousel-caption">
+            <h2>Nous contacter</h2>
+            <p>Accédez au formulaire de contact !</p>
+          </div>
+  			</div>
+
+  		</div>
+
+  		<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+  			<span class="icon-prev" aria-hidden="true"></span>
+  			<span class="sr-only">Previous</span>
+  		</a>
+
+  		<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+  			<span class="icon-next" aria-hidden="true"></span>
+  			<span class="sr-only">Next</span>
+  		</a>
+
+  	</div>
+  </div>
 </div>
