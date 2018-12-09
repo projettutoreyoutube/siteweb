@@ -11,7 +11,7 @@
         <li data-target="#carousel-example-generic" data-slide-to="5"></li>
   		</ol>
 
-  		<div class="carousel-inner shwadow" role="listbox">
+  		<div class="carousel-inner white-tv" role="listbox">
   			<div class="carousel-item active">
           <a href="index.php?partie=1">
     				<img src="img/histoire/histoire_presentation.jpg" alt="illustration histoire" width="720px" height="480px"></img>
@@ -22,7 +22,7 @@
           </a>
   			</div>
 
-        <div class="carousel-item shwadow">
+        <div class="carousel-item white-tv">
           <a href="index.php?partie=2">
     				<img src="img/poids/poids_presentation.jpg" alt="illustration poids dans la société" width="720px" height="480px"></img>
             <div class="carousel-caption">
@@ -52,7 +52,7 @@
           </a>
   			</div>
 
-        <div class="carousel-item shwadow">
+        <div class="carousel-item white-tv">
           <a href="index.php?partie=5">
             <img src="img/miniatures/banner-minia.png" alt="illusration partie technique" width="720px" height="480px"></img>
             <div class="carousel-caption">
@@ -62,7 +62,7 @@
           </a>
   			</div>
 
-        <div class="carousel-item shwadow">
+        <div class="carousel-item white-tv">
           <a href="index.php?partie=6">
             <img src="img/miniatures/contact-minia.jpg" alt="illusration contact" width="720px" height="480px"></img>
             <div class="carousel-caption">

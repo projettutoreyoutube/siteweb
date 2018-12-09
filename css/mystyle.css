@@ -417,18 +417,19 @@ p.sign{
   width: 100%;
 }
 
-
- .shwadow *{
-   text-shadow: 1px 1px black;
- }
-
 .carousel img {
   height: 500px;
   width: 100%;
 }
 
+.white-tv * {
+  color: white;
+  text-shadow: 1px 1px black;
+}
+
 .black-tv * {
   color: black;
+  text-shadow: 1px 1px white;
 }
 
 .carousel-item p {
