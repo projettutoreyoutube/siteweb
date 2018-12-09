@@ -575,6 +575,25 @@ p.sign{
 }
 /* fin caroussel */
 
+
+div.left{
+    text-align: left;
+  }
+  a.left{
+    padding-top: 5px; padding-bottom: 5px;
+  }
+  a.left:hover{
+    padding-top: 5px; padding-bottom: 5px;
+  }
+  div.right{
+    text-align: right;
+  }
+  a.right{
+    padding-top: 5px; padding-bottom: 5px;
+  }
+  a.right:hover{
+    padding-top: 5px; padding-bottom: 5px;
+  }
 /* debut back to the top button */
 
 #toTheTop {

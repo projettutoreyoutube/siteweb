@@ -55,39 +55,39 @@
       <li>C’est hypocrite de gagner de l’argent en faisant des vidéos dans sa chambre alors que d’autres ont un travail très difficile tel agriculteur ou ouvrier.</li>
     </ul>
 
-Ce sondage nous a permis de voir comment la société percevait l’activité de youtubeur (même si notre échantillon comporte beaucoup d’étudiants). Nous pouvons voir que les générations n’ayant pas grandi avec YouTube ont plus de mal à reconnaitre cette activité comme un réel métier. En revanche, les jeunes générations pensent à une écrasante que youtubeur est un métier à part entière.
+    Ce sondage nous a permis de voir comment la société percevait l’activité de youtubeur (même si notre échantillon comporte beaucoup d’étudiants). Nous pouvons voir que les générations n’ayant pas grandi avec YouTube ont plus de mal à reconnaitre cette activité comme un réel métier. En revanche, les jeunes générations pensent à une écrasante que youtubeur est un métier à part entière.
+  </div>
 
+  <div class="content">
+    <div class="lien video">
+      <a class="video" href="https://www.youtube.com/watch?v=_rFb77GgN8Q&t=2s&index=2&list=PLwe_vFnngcJe4dOnRVkjFBzBonRuZXCs6"><img class="video" src="img/metier/cyprien.png"></a><br />
+      <a class="test" href="https://www.youtube.com/watch?v=_rFb77GgN8Q&t=2s&index=2&list=PLwe_vFnngcJe4dOnRVkjFBzBonRuZXCs6">Vidéo de Cyprien à propos du métier de youtubeur</a>
+    </div>
   </div>
 
 <style>
-  div.left{
-    text-align: left;
-    
+
+  div.video{
+    width: 80%;
   }
-  a.left{
-    padding-top: 5px; padding-bottom: 5px;
+  img.video{
+    width:80%;
+    margin:auto;
+    text-align: center;
   }
-  a.left:hover{
-    padding-top: 5px; padding-bottom: 5px;
-  }
-  div.right{
-    text-align: right;
-    
-  }
-  a.right{
-    padding-top: 5px; padding-bottom: 5px;
-  }
-  a.right:hover{
-    padding-top: 5px; padding-bottom: 5px;
+  a.test{
+    text-decoration: none;
+    text-align: center;
+    color: black;
   }
 </style>
 
 <div class="row">
 <div class="col-md-6 left">
-  <a class="button left" href="">Partie précédente</a>
+  <a class="button left" href="index.php?partie=4">Partie précédente</a>
 </div>
 <div class="col-md-6 right">
-  <a class="button right" href="">Partie suivante</a>
+  <a class="button right" href="index.php?partie=4&subpart=2">Partie suivante</a>
 </div>
 </div>
 </div>
