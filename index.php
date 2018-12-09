@@ -18,7 +18,7 @@
       <?php include('include/aside.php'); ?>
 
 
-      <main class="col-md-7">
+      <main class="col-md-8">
         <div class="d-block d-md-none row">
           <nav class="navigation_partie">
             <ul id="menu-accordeon">
@@ -74,8 +74,10 @@
         </div>
       </main>
 
-      <aside class="d-none d-md-block col-md-3">
-
+      <aside class="d-none d-md-block col-md-2">
+          <div class="img_pub">
+            <img class="banner" src="img/oasis.gif" alt="image barre"/>
+          </div>
       </aside>
 
     </div>
