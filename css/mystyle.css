@@ -221,7 +221,7 @@ nav.navigation_partie a{
 }
 
 div.main_article{
-
+  height: 70%
 }
 
 .corps_texte{
@@ -379,12 +379,12 @@ border: solid 1px black;
 border-radius: 1em;
 height: auto;
 background-color: black;
-height: 25em;
-width: 50em;
 display: flex;
 flex-flow: wrap;
 justify-content: center;
 align-items: center;
+height: 25em;
+width: 80%;
 }
 
 /* animation */

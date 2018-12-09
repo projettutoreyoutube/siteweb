@@ -64,8 +64,8 @@
           }
           ?>
         </div>
-        <div class="clear"></div>
-        <div class="row col-12 element-bottom">
+        <div class="row clear"></div>
+        <div class="row element-bottom">
           <div class="col-md-6">
             <a class="button up" href="#top">Retour en haut</a>
           </div>
@@ -75,11 +75,9 @@
         </div>
       </main>
 
-
     </div>
-
   </div>
 
-<?php include('include/footer.php'); ?>
+  <?php include('include/footer.php'); ?>
 </body>
 </html>

@@ -1,11 +1,11 @@
 <div class="clear"></div>
 <div class="slideshow-container">
   <div class="mySlides fade">
-    <a href="http://www.iut-bm.univ-fcomte.fr/pages/fr/dpt-info---actualites-17109.html"><img src="img/logo_info.png" width="600em" height="250em"></a>
+    <a href="http://www.iut-bm.univ-fcomte.fr/pages/fr/dpt-info---actualites-17109.html"><img src="img/logo_info.png" width="80%" height="20%"></a>
  </div>
 
  <div class="mySlides fade">
-   <a href="https://www.youtube.com/"><img src="img/yt_carousel.png" width="250em" height="250em"></a>
+   <a href="https://www.youtube.com/"><img src="img/yt_carousel.png" width="50%" height="50%"></a>
  </div>
 
 
