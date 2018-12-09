@@ -3,8 +3,8 @@
 		<ul id="mini_menu-accordeon">
 			<li><a href="#">Navigation</a>
 				<ul>
-					<li><a class="col-md-6 top" href="index.php?partie=1&subpart=1">Dates Clés</a></li>
-					<li><a class="col-md-6 top" href="index.php?partie=1&subpart=2">YouTube s'ouvre au monde</a></li>
+					<li><a href="index.php?partie=1&subpart=1">Dates Clés</a></li>
+					<li><a href="index.php?partie=1&subpart=2">YouTube s'ouvre au monde</a></li>
 				</ul>
 			</li>
 		</ul>
