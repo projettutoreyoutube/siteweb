@@ -22,8 +22,32 @@
 	}
 	div.formulaire{
 		padding:15px;
+		width: 70%;
+		margin:auto;
 	}
 
+	div.mail{
+		width: 100%;
+		display: flex;
+
+	}
+	div.champ{
+		padding:10px;
+		text-align: center;
+	}
+	div.champ-text{
+		width:100%;
+		max-width: 100%;
+		padding:10px;
+		text-align: center;
+	}
+	input{
+		width:90%;
+	}
+	textarea.text{
+		min-height: 250px;
+		width:90%;
+	}
 </style>
 
 <?php
@@ -63,7 +87,7 @@ if(isset($_POST["submit"])){
 <h1 class="col-sm-12 title">Bienvenue sur la page de de contact</h1>
 <h2 class="col-sm-12 subtitle">Cette page regroupe plusieurs moyens de contact</h2>
 
-<div class="col-md-12 contacter row">
+<div class="col-md-12 contact">
 	<p class="col-md-6 lien">
 		Contactez nous via twitter : <a class="twitter" href="https://twitter.com/TutProject">Twitter</a>
 	</p>
@@ -74,46 +98,58 @@ if(isset($_POST["submit"])){
 </div>
 
 
+<div class="col-md-12 row contact"><h5 class="mail">Vous pouvez nous envoyer un email, nous essaierons de vous répondre dans les plus brefs délais.</h5></div>
 
-<div class="col-sm-12 formulaire row">
+
+<div class="formulaire row">
 	<form method="post" action="page.php?article=4">
-		<div class="row">
-			<p class="col-sm-6">Votre nom : <input type="text" name="nom" id="nom" required></p>
+			<div class="row mail col-md-12">
+
+				<div class="champ col-md-6">
+					<input type="text" name="nom" id="nom" placeholder="Votre nom" required>
+					<?php
+						if(isset($_POST["nom"]) && !preg_match("/^[a-zA-Z -]{2,}$/", $_POST["nom"])){
+							$erreur["nom"] = "Le nom doit être composé de deux lettres minimum.";
+							echo "<br>".$erreur["nom"]."<br>";
+						}
+						?>
+				</div>
+				<div class="champ col-md-6">	
+					<input type="text" name="prenom" id="prenom" placeholder="Votre prénom" required>
+					<?php
+						if(isset($_POST["prenom"]) && !preg_match("/^[a-zA-Z -]{2,}$/", $_POST["prenom"])){
+							$erreur["prenom"] = "Le prénom doit être composé de deux lettres minimum.";
+							echo "<br>".$erreur["prenom"]."<br>";
+						}
+						?>	
+				</div>
+			</div>
+			<div class="row mail col-md-12">
+				<div class="champ col-md-6">
+					<input type="text" name="email" id="email" placeholder="Votre adresse mail" required>
+				</div>
+				<div class="champ col-md-6">
+					<input type="text" name="objet" id="objet" placeholder="Objet de votre mail" required>
+				</div>
+			</div>
+
+			<div class="row mail col-md-12">
+				<div class="champ-text col-md-12">
+					<textarea class="text" type="text" name="message" id="message" placeholder="Ici, écrivez votre message" required></textarea>
+				</div>
+			</div>
+
+
+			<div class="row">
+				<div class="champ offset-6 col-md-6">
+					<input type="submit" name="submit" value="Envoyer">
+				</div>
+			</div>
 			<?php
-				if(isset($_POST["nom"]) && !preg_match("/^[a-zA-Z -]{2,}$/", $_POST["nom"])){
-					$erreur["nom"] = "Le nom doit être composé de deux lettres minimum.";
-					echo "<br>".$erreur["nom"]."<br>";
-				}
+				if(isset($_POST["submit"])){
+					echo $messageMail;
+				} 
 				?>
-			<p class="col-sm-6">Votre prénom : <input type="text" name="prenom" id="prenom" required></p>
-			<?php
-				if(isset($_POST["prenom"]) && !preg_match("/^[a-zA-Z -]{2,}$/", $_POST["prenom"])){
-					$erreur["prenom"] = "Le prénom doit être composé de deux lettres minimum.";
-					echo "<br>".$erreur["prenom"]."<br>";
-				}
-				?>	
-		</div>
-		<div class="row">
-			<p class="col-sm-12">Votre email : <input type="text" name="email" id="email" required></p>
-		</div>
-
-		<label for="objet">Objet : </label>
-		<input type="text" name="objet" id="objet" required />
-
-		<div class="row col-sm-12">
-			<p class="col-sm-12">Votre message : </p>
-			<textarea name="message" id="message" cols="60" rows="10"></textarea>
-		</div>
-
-
-		<div class="row">
-		<p class="col-sm-12"><input type="submit" name="submit" value="Envoyer" /></p>
-		</div>
-		<?php
-			if(isset($_POST["submit"])){
-				echo $messageMail;
-			} 
-			?>
 
 	</form>
 </div>

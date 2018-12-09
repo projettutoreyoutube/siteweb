@@ -10,6 +10,7 @@ body{
 	padding: 0;
 }
 
+.row{margin:0;}
 
 /* Fin mise en forme du Body
 
@@ -113,6 +114,21 @@ h4.nom{
 	font-size: 1.2rem;
 	margin-top: 15px;
 	}
+
+h5.mail{
+	padding:15px;
+	margin:0;
+	font-size: 1.1rem;
+	margin-top: 15px;
+	border-top: solid 1px black;
+	width: 100%;
+	text-align: center;
+}
+
+div.contact{
+	width: 100%;	
+	display: flex;
+}
 
 p.paragraph{
 	font-size: 1rem;
