@@ -1,11 +1,16 @@
 <div class="corps_texte">
   <div class="main_title">
+    Taille et chiffre d'affaires
+  </div>
+
+  <div class="main_subtitle">
     Critères de taille
   </div>
   <div class="content">
     YouTube étant une plateforme très mystérieuse au niveau de ses informations telles que l’effectif, il a été difficile de trouver des chiffres précis. On sait juste qu’en 2014, l’effectif de YouTube s’élevait à 121.
   </div>
-  <div class="main_title">
+
+  <div class="main_subtitle">
     Chiffre d'affaires
   </div>
   <div class="content">
@@ -16,6 +21,13 @@
   </div>
   <div class="img-md">
     <img class="banner" src="img/orga/chiffre_affaires.png" alt="image barre"/>
-    <figcaption>Légende associée</figcaption>
+    <figcaption>Estimation du chiffre d'affaire de YouTube LLC depuis 2015</figcaption>
+  </div>
+
+  <div class="main_subtitle">
+    Capitalisation
+  </div>
+  <div class="content">
+    Pour ce qui est de la capitalisation de YouTube, nous allons parler de la société nommée Alphabet. C’est une entreprise américaine, qui est basée en Californie et qui a été créée en 2015. En plus de posséder 100% de Google dit “traditionnel”, donc YouTube, Google Maps etc., Alphabet est aussi constitué de société comme Calico ou Nest (qui sont des projets novateurs de Google). C’est donc pour ses diverses raisons que l’on va regarder la capitalisation d’Alphabet. A ce jour, le 29 novembre 2018, le capital d’Alphabet est d’environ 1086.74 USD.
   </div>
 </div>
