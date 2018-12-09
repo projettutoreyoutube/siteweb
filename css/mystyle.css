@@ -379,66 +379,50 @@ p.sign{
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 */
 
+
 .rightaside {
   display: flex;
   flex-flow: wrap;
 }
 
-/* Slideshow container */
-.slideshow-container {
-margin: auto;
-margin-top: 15px;
-margin-bottom: 15px;
-flex: 0 0 100%;
-text-align: center;
-border: solid 1px black;
-border-radius: 1em;
-height: auto;
-background-color: black;
-display: flex;
-flex-flow: wrap;
-justify-content: center;
-align-items: center;
-height: 25em;
-width: 80%;
+
+/* debut caroussel */
+.tv {
+  padding: 0;
 }
 
-/* animation */
-.fade {
-animation-name: fade;
-animation-duration: 5s;
+.carousel-inner {
+  border-radius: 1.5em;
+  border: 3px solid black;
 }
 
-@-webkit-keyframes fade {
-from {opacity: .4}
-to {opacity: 1}
+
+.carousel {
+  width: 100%;
 }
 
-.clear {
-  height: 5em;
+
+ .shwadow *{
+   text-shadow: 1px 1px black;
+ }
+
+.carousel img {
+  height: 500px;
+  width: 100%;
 }
 
-img.background{
-	border:solid 2px #5D0806;
-	height:150px;
-	width: 290px;
-	border-radius: 25px
-}
-a.raccourci{
-	color:black;
-	text-decoration: none;
+.black-tv * {
+  color: black;
 }
 
-div.raccourci{
-	padding: 25px;
-}
-div.lien{
-	height: 150px;
-	width:290px;
-	margin:auto;
-	text-align: center;
+.carousel-item p {
+  font-size: 1em;
+  font-weight: bolder;
 }
 
-div.miniatures{
-  margin:0;
+.carousel-item h2 {
+  font-size: 2em;
+  font-weight: bolder;
 }
+
+/* fin caroussel */
