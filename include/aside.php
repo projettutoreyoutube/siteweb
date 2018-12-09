@@ -9,7 +9,6 @@ else{
 <aside class="d-none d-md-block col-md-2">
   <div class="row">
     <div class="col-md-12 element-center">
-      <div class="clear"></div>
       <a href="https://www.youtube.com/"><img src="img/yt_logo.png" alt="logo du projet" width="50" height="50"></a>
     </div>
   </div>

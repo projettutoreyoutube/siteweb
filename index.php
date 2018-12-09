@@ -18,7 +18,7 @@
       <?php include('include/aside.php'); ?>
 
 
-      <main class="col-md-10">
+      <main class="col-md-7">
         <div class="d-block d-md-none row">
           <nav class="navigation_partie">
             <ul id="menu-accordeon">
@@ -35,7 +35,7 @@
           </nav>
         </div>
 
-        <div class="col-12 main_article">
+        <div class="main_article">
           <?php
           switch($partie){
             case 0:
