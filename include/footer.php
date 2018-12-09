@@ -12,7 +12,6 @@
 			</div>
 			<div class="row sign col-md-12">
 				<p class="sign col-md-12"><small>Cette page fait partie du site "projet YouTube" réalisé dans le cadre d'un projet tutoré de 1er semestre de DUT informatique</small></p>
-				<p class="sign col-md-12"><small>Créateur de la page : Quentin Delignou</small></p>
 			</div>
 		</div>
 	</footer>
