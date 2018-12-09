@@ -83,7 +83,7 @@
         </div>
       </main>
 
-      <aside class="d-none d-md-block col-md-2">
+      <aside class="d-none d-md-block col-md-2 aside_right">
           <div class="aside_right_title">
             <span>Powered by</span>
           </div>
