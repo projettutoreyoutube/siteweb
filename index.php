@@ -78,8 +78,43 @@
       </main>
 
       <aside class="d-none d-md-block col-md-2">
-          <div class="img_pub">
+          <div class="aside_right_title">
+            Langages présents sur ce site Web
+          </div>
+          <div class="row description">
+            <div class="col-md-4">
+              <img class="ico_langage" src="img/ico_langage/html_ico.png" alt="image barre"/>
+            </div>
+            <div class="col-md-8 legende">
+              L'HTML 5
+            </div>
+          </div>
 
+          <div class="row description">
+            <div class="col-md-4">
+              <img class="ico_langage" src="img/ico_langage/css_ico.png" alt="image barre"/>
+            </div>
+            <div class="col-md-8 legende">
+              Le CSS3
+            </div>
+          </div>
+
+          <div class="row description">
+            <div class="col-md-4">
+              <img class="ico_langage" src="img/ico_langage/js_ico.png" alt="image barre"/>
+            </div>
+            <div class="col-md-8 legende">
+              Le Javascript
+            </div>
+          </div>
+
+          <div class="row description">
+            <div class="col-md-4">
+              <img class="ico_langage" src="img/ico_langage/php_ico.png" alt="image barre"/>
+            </div>
+            <div class="col-md-8 legende">
+              Le PHP
+            </div>
           </div>
       </aside>
 

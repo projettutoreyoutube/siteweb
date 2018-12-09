@@ -269,6 +269,31 @@ img.presentation{
   border: solid 1px black;
   border-radius: 25px;
 }
+
+div.aside_right_title{
+  padding-top: 15px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.description{
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+.legende{
+  padding-top: 24px;
+}
+
+div.ico_langage{
+	padding:0;
+	margin: 0;
+}
+img.ico_langage{
+  width:100%;
+}
+
 a.button {
 	background-color: #5D0806;
     color: white;
