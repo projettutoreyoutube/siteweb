@@ -117,7 +117,7 @@ Fin Menu déroulant de navigation*/
 /* Aside */
 aside {
   background-color: #F5F5F5;
-  padding: 50px 0px 50px 0px;
+  padding: 50px 25px 50px 25px;
 }
 
 input.search{
@@ -138,8 +138,8 @@ aside h2 {
 aside li * {
   font-weight: bold;
   font-size: 13px;
-  text-align: left;
 }
+
 
 .element-center {
   align-self: center;
