@@ -41,5 +41,36 @@
     On connaît l’importance des médias dans la société actuelle, et on imagine la puissance de l’information qu’ils peuvent transmettent. On vient de le voir, YouTube est actuellement le plus puissant média vidéo existant sur internet (et peut-être même en général). <br>
      Il devient alors nécessaire de détailler la source du pouvoir de YouTube : les youtubeurs. Malheureusement, aucun des youtubeurs contactés n’ayant répondu à nos sollicitations, nous serons obligés de travailler en fonction de vidéos réalisés par des youtubeurs sur les sujets qui nous intéressent, et de nos recherches effectuées sur internet.
   </div>
+  <style>
+    div.left{
+      text-align: left;
 
+    }
+    a.left{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    a.left:hover{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    div.right{
+      text-align: right;
+
+    }
+    a.right{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    a.right:hover{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+  </style>
+
+  <div class="row">
+    <div class="col-md-6 left">
+      <a class="button left" href="index.php?partie=6&subpart=1">Partie précédente</a>
+    </div>
+    <div class="col-md-6 right">
+      <a class="button right" href="index.php?partie=6&subpart=3">Partie suivante</a>
+    </div>
+  </div>
+</div>
 </div>

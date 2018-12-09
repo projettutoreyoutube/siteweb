@@ -26,4 +26,35 @@
     En 2014, l’indice du cours des actions Google s’élevait à 500 dollars américains. Depuis 2015 et la création de la société Alphabet qui est un agglomérat de sociétés dont Google fait partie, cet indice a doublé. Il s’élève actuellement à 1030 dollars américains.
 
   </div>
+  <style>
+    div.left{
+      text-align: left;
+
+    }
+    a.left{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    a.left:hover{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    div.right{
+      text-align: right;
+
+    }
+    a.right{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    a.right:hover{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+  </style>
+
+  <div class="row">
+    <div class="col-md-6 left">
+      <a class="button left" href="index.php?partie=6&subpart=2">Partie précédente</a>
+    </div>
+    <div class="col-md-6 right">
+      <a class="button right" href="index.php?partie=6&subpart=4">Partie suivante</a>
+    </div>
+  </div>
 </div>

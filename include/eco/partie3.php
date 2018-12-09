@@ -12,4 +12,32 @@
 
   <div class="row">
 </div>
+<style>
+  div.left{
+    text-align: left;
+
+  }
+  a.left{
+    padding-top: 5px; padding-bottom: 5px;
+  }
+  a.left:hover{
+    padding-top: 5px; padding-bottom: 5px;
+  }
+  div.right{
+    text-align: right;
+
+  }
+  a.right{
+    padding-top: 5px; padding-bottom: 5px;
+  }
+  a.right:hover{
+    padding-top: 5px; padding-bottom: 5px;
+  }
+</style>
+
+<div class="row">
+  <div class="col-md-6 left">
+    <a class="button left" href="index.php?partie=5&subpart=2">Partie précédente</a>
+  </div>
+</div>
 </div>

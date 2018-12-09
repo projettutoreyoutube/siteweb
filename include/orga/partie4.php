@@ -36,4 +36,32 @@ YouTube permet aux créateurs de contenu de collecter des fonds pour une associa
   <div class="content">
     En haut de la hiérarchie de YouTube les salaires vont jusqu’à 280 000 $ par mois en Amérique. Sinon les salariés ont des salaires qui varient entre 43 400 $ et 149 400$ annuels suivant leur niveau de responsabilité, avec une moyenne autour de 65 000$ annuels.
   </div>
+  <style>
+    div.left{
+      text-align: left;
+
+    }
+    a.left{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    a.left:hover{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    div.right{
+      text-align: right;
+
+    }
+    a.right{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    a.right:hover{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+  </style>
+
+  <div class="row">
+    <div class="col-md-6 left">
+      <a class="button left" href="index.php?partie=6&subpart=3">Partie précédente</a>
+    </div>
+  </div>
 </div>

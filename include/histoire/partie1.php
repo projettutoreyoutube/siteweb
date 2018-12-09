@@ -14,4 +14,35 @@
   <div class="content">
     Le 9 octobre 2006, YouTube a été racheté par Google pour 1,65 millions de dollars américains. Cette opération a préservé 67 salariés de YouTube dont Chad HURLEY et Steve Chen.
   </div>
+  <style>
+    div.left{
+      text-align: left;
+
+    }
+    a.left{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    a.left:hover{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    div.right{
+      text-align: right;
+
+    }
+    a.right{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+    a.right:hover{
+      padding-top: 5px; padding-bottom: 5px;
+    }
+  </style>
+
+  <div class="row">
+    <div class="col-md-6 left">
+      <a class="button left" href="index.php?partie=1">Partie précédente</a>
+    </div>
+    <div class="col-md-6 right">
+      <a class="button right" href="index.php?partie=1&subpart=2">Partie suivante</a>
+    </div>
+  </div>
 </div>
