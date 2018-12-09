@@ -8,7 +8,7 @@
   </div>
 
   <div class="main_title">
-    La propagation des infoxs sur Youtube
+    La propagation des infox sur Youtube
   </div>
 
   <div class="content">
@@ -23,7 +23,7 @@
   </div>
 
   <div class="main_title">
-    Les solutions pour lutter contre les infoxs
+    Les solutions pour lutter contre les infox
   </div>
 
   <div class="content">
