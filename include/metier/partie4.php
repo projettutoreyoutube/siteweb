@@ -6,27 +6,27 @@
     Les gros youtubeurs français :
   </div>
   <div class="content">
-    <div class="lien video">
+    <div class="video">
       <a class="video" href="https://www.youtube.com/cyprien"><img class="video" src="img/metier/chaine1.png"></a><br />
     </div>
   </div>
   <div class="content">
-    <div class="lien video">
+    <div class="video">
       <a class="video" href="https://www.youtube.com/user/aMOODIEsqueezie"><img class="video" src="img/metier/chaine2.png"></a><br />
     </div>
   </div>
   <div class="content">
-    <div class="lien video">
+    <div class="video">
       <a class="video" href="https://www.youtube.com/user/NormanFaitDesVideos"><img class="video" src="img/metier/chaine3.png"></a><br />
     </div>
   </div>
   <div class="content">
-    <div class="lien video">
+    <div class="video">
       <a class="video" href="https://www.youtube.com/user/LeFatShow"><img class="video" src="img/metier/chaine4.png"></a><br />
     </div>
   </div>
   <div class="content">
-    <div class="lien video">
+    <div class="video">
       <a class="video" href="https://www.youtube.com/user/ptitenatou"><img class="video" src="img/metier/chaine5.png"></a><br />
     </div>
   </div>
@@ -37,6 +37,8 @@
 
   div.video{
     width: 80%;
+    margin:auto;
+    text-align: center;
   }
   img.video{
     width:80%;

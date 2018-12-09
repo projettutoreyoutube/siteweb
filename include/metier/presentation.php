@@ -19,8 +19,7 @@
     </div>
     <div class="col-lg-12 raccourci propriete">
       <div class="lien">
-        <a class="img" href="index.php?partie=4&subpart=2"><img class="background" src="img/metier/loi.PNG" alt="background pour lien"></a>
-        
+        <a class="img" href="index.php?partie=4&subpart=2"><img class="background" src="img/metier/loi.png" alt="background pour lien"></a>
       </div>
       <div class="description">
         <a class="raccourci" href="index.php?partie=4&subpart=2">Le youtubeur face à la loi</a>
