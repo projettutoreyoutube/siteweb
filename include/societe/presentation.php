@@ -4,7 +4,7 @@
   </div>
 
   <div class="content">
-    Cette partie du site a pour but de présenter le poids ainsi que l'importance que YouTube peut avoir sur la société.
+    Cette partie du site a pour but de présenter le poids que YouTube peut avoir sur la société.
   </div>
 
   <div class="row">
