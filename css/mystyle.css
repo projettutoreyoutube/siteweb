@@ -147,6 +147,9 @@ aside h2 {
   align-self: center;
   text-align: left;
 }
+.img_pub{
+  margin-top: 15px;
+}
 
 hr {
   border-top: 1px solid black;
