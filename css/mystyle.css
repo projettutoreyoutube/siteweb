@@ -491,4 +491,11 @@ p.sign{
   font-weight: bolder;
 }
 
+.carousel-control-prev {
+  cursor: w-resize
+}
+
+.carousel-control-next {
+  cursor: e-resize;
+}
 /* fin caroussel */

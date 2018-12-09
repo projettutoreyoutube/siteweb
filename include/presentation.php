@@ -1,16 +1,16 @@
 <div class="row row-tv">
   <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 col-xl-10 tv">
 
-  	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  	<div id="welcome-carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover">
   		<ol class="carousel-indicators">
-  			<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-  			<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-  			<li data-target="#carousel-example-generic" data-slide-to="2"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="5"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="6"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="7"></li>
+  			<li data-target="#welcome-carousel" data-slide-to="0" class="active"></li>
+  			<li data-target="#welcome-carousel" data-slide-to="1"></li>
+  			<li data-target="#welcome-carousel" data-slide-to="2"></li>
+        <li data-target="#welcome-carousel" data-slide-to="3"></li>
+        <li data-target="#welcome-carousel" data-slide-to="4"></li>
+        <li data-target="#welcome-carousel" data-slide-to="5"></li>
+        <li data-target="#welcome-carousel" data-slide-to="6"></li>
+        <li data-target="#welcome-carousel" data-slide-to="7"></li>
   		</ol>
 
   		<div class="carousel-inner white-tv" role="listbox">
@@ -96,14 +96,14 @@
 
   		</div>
 
-  		<a class="carousel-control-prev" data-target="#carousel-example-generic" role="button" data-slide="prev">
+  		<a class="carousel-control-prev" data-target="#welcome-carousel" role="button" data-slide="prev">
   			<span class="carousel-control-prev-icon"></span>
   		</a>
 
-  		<a class="carousel-control-next"  data-target="#carousel-example-generic" role="button" data-slide="next">
+  		<a class="carousel-control-next" data-target="#welcome-carousel" role="button" data-slide="next">
         <span class="carousel-control-next-icon"></span>
   		</a>
-      
+
   	</div>
   </div>
 </div>
