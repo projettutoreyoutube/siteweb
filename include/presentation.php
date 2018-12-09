@@ -83,14 +83,11 @@
             </div>
           </a>
   			</div>
-
-<<<<<<< HEAD
+        
         <div class="carousel-item white-tv">
           <a href="index.php?partie=6">
-=======
         <div class="carousel-item shwadow">
           <a href="page.php?article=4">
->>>>>>> 0be1f5464c6368316020fccbf22ee49f0f23fe31
             <img src="img/miniatures/contact-minia.jpg" alt="illusration contact" width="720px" height="480px"></img>
             <div class="carousel-caption">
               <h2>Nous contacter</h2>
