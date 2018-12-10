@@ -63,5 +63,8 @@ YouTube permet aux créateurs de contenu de collecter des fonds pour une associa
     <div class="col-md-6 left">
       <a class="button left" href="index.php?partie=6&subpart=3">Partie précédente</a>
     </div>
+    <div class="col-md-6 right">
+    <a class="button right" href="index.php?partie=6">Retour au menu de la partie</a>
+  </div>
   </div>
 </div>

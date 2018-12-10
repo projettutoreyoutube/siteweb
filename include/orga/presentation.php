@@ -34,10 +34,10 @@
     </div>
     <div class="col-lg-12 raccourci propriete">
       <div class="lien">
-        <a class="img" href="index.php?partie=6&subpart=3"><img class="background" src="img/orga/economique.jpg" alt="background pour lien"></a>
+        <a class="img" href="index.php?partie=6&subpart=4"><img class="background" src="img/orga/economique.jpg" alt="background pour lien"></a>
       </div>
       <div class="description">
-        <a class="raccourci" href="index.php?partie=6&subpart=3">Critères économiques</a>
+        <a class="raccourci" href="index.php?partie=6&subpart=4">Critères économiques</a>
         <p class="description">Découvrez sur quels critères économiques se base YouTube.</p>
       </div>
     </div>
