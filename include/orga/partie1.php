@@ -55,7 +55,7 @@
 
   <div class="row">
     <div class="col-md-6 left">
-      <a class="button left" href="index.php?partie=6">Partie précédente</a>
+      <a class="button left" href="index.php?partie=6">Retour au menu de la partie</a>
     </div>
     <div class="col-md-6 right">
       <a class="button right" href="index.php?partie=6&subpart=2">Partie suivante</a>
