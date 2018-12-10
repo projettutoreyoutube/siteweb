@@ -84,8 +84,8 @@ if(isset($_POST["submit"])){
 ?>
 
 
-<h1 class="col-sm-12 title">Bienvenue sur la page de contact</h1>
-<h2 class="col-sm-12 subtitle">Cette page regroupe plusieurs moyens de contact</h2>
+<h1 class="col-sm-12 title">Page de contact</h1>
+<h2 class="col-sm-12 subtitle">Contactez nous de la manière qui vous convient</h2>
 
 <div class="col-md-12 contact">
 	<p class="col-md-6 lien">

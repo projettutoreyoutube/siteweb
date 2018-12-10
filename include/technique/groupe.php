@@ -9,8 +9,8 @@
 </style>
 
 
-<h1 class="col-sm-12 title">Bienvenue sur la page de présentation de notre équipe</h1>
-<h2 class="col-sm-12 subtitle">Cette page présente nos membres</h2>
+<h1 class="col-sm-12 title">Page de présentation de notre équipe</h1>
+<h2 class="col-sm-12 subtitle">Nous nous sommes présentés d'une manière qui nous représente</h2>
 
 <h4 class="nom">Chef de projet : Loïc Bertrand</h4>
 <p class="col-sm-12 paragraph">

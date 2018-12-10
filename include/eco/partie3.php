@@ -39,5 +39,8 @@
   <div class="col-md-6 left">
     <a class="button left" href="index.php?partie=5&subpart=2">Partie précédente</a>
   </div>
+  <div class="col-md-6 right">
+    <a class="button right" href="index.php?partie=5">Retour au menu de la partie</a>
+  </div>
 </div>
 </div>

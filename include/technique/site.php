@@ -1,8 +1,8 @@
 
 
 
-<h1 class="col-sm-12 title">Bienvenue sur la page de présentation de notre site</h1>
-<h2 class="col-sm-12 subtitle">Cette page contient des remarques du groupe par rapport au site</h2>
+<h1 class="col-sm-12 title">Page de présentation de notre site</h1>
+<h2 class="col-sm-12 subtitle">Les remarques du groupe par rapport au site</h2>
 
 
 <h4 class="nom">Remarques de Loïc Bertrand</h4>

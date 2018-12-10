@@ -9,28 +9,23 @@
   <div class="row col-lg-12 miniatures">
     <div class="col-lg-12 raccourci propriete">
       <div class="lien">
-        <a class="img" href="index.php?partie=4&subpart=1"><img class="background" src="img/histoire/datecle.jpg" alt="background pour lien"></a>
+        <a class="img" href="index.php?partie=1&subpart=1"><img class="background" src="img/histoire/datecle.jpg" alt="background pour lien"></a>
       </div>
       <div class="description">
-        <a class="raccourci" href="index.php?partie=4&subpart=1">Dates Clés</a>
+        <a class="raccourci" href="index.php?partie=1&subpart=1">Dates Clés</a>
         <p class="description">Au travers de cette partie, découvrez les dates clés de YouTube.</p>
       </div>
     </div>
     <div class="col-lg-12 raccourci propriete">
       <div class="lien">
-        <a class="img" href="index.php?partie=4&subpart=2"><img class="background" src="img/histoire/monde.png" alt="background pour lien"></a>
+        <a class="img" href="index.php?partie=1&subpart=2"><img class="background" src="img/histoire/monde.png" alt="background pour lien"></a>
       </div>
       <div class="description">
-        <a class="raccourci" href="index.php?partie=4&subpart=2">YouTube s'ouvre au monde</a>
+        <a class="raccourci" href="index.php?partie=1&subpart=2">YouTube s'ouvre au monde</a>
       </div>
     </div>
   </div>
 
-  <div class="row">
-  <div class="img-md">
-    <img class="presentation" src="img/histoire/histoire_presentation.jpg" alt="image barre"/>
-  </div>
-</div>
 </div>
 
 <style>
