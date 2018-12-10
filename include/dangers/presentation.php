@@ -1,6 +1,6 @@
 <div class="corps_texte">
   <div class="main_title">
-    Bienvenue sur la partie qui traite des dangers ainsi que des limites de YouTube
+    Les dangers et les limites de YouTube
   </div>
 
   <div class="content">

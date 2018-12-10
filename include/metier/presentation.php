@@ -58,7 +58,7 @@ div.lien{
   }
   div.description{
     padding:0;
-    vertical-align: middle;
+
   }
   p.description{
     font-weight: normal;
