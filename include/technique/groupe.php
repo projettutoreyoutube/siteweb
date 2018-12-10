@@ -59,7 +59,7 @@
 <p class="col-sm-12 paragraph">
 	<img src="img/photo/erwan.jpg" alt="photo d'Erwan" class="photo">
 	<br>
-	Je suis Erwanomax, j'ai 18 ans.
+	Je m'appelle Erwan Vinot, j'ai 18 ans. Toujours passionné d'informatique, j'ai fait plusieurs stages dans ce domaine. Après avoir eu mon Bac S spécialité ISN avec mention, mon chemin était tout tracé pour rejoindre un DUT informatique pour enfin pratiquer des disciplines qui m'intéressent.
 </p>
 
 <div class="row col-md-12">

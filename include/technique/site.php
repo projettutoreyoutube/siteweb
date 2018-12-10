@@ -42,7 +42,10 @@
 
 <h4 class="nom">Remarques de Erwan Vinot</h4>
 <p class="col-sm-12 paragraph">
-
+	N'étant pas un mordu de PHP, j'ai toujours su faire part de mes idées. Mon travail dans le site a plus été axé vers le côté graphique de ce projet: J'ai réalisé le premier prototype de la page d'accueil sur lequel nous avons basé les autres pages. J'ai réalisé des éléments graphiques dès que c'était nécessaire.
+	<br><br>
+	<span>Difficultés rencontrées :</span>
+	<br><br>Déjà à l'heure du prototype je pensais agencer la navigation entre les articles avec une playlist à la manière de YouTube. Après l'avoir codé, je me suis rendu compte que ce serait trop compliqué de l'implémenter au site à temps, en prenant en considération les problèmes qu'il restait à corriger avant la date butoir.
 </p>
 
 <div class="row col-md-12">
