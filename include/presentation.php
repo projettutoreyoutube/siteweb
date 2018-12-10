@@ -1,6 +1,14 @@
 <div class="row row-tv">
   <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 col-xl-10 tv">
 
+    <div class="main_title">
+      YouTube un géant du web
+    </div>
+
+    <div class="content">
+        Aujourd'hui, presque tout le monde connait et utilise la plateforme YouTube. Mais en connaissez vous réellement tous les aspects ? Savez vous tout ce qu'il se passe lorsque vous regardez une vidéo ? Etes-vous sûrs d'être en totale sécurité ? Venez confronter vos idées à notre travail et ressortez en changés (ou pas).
+      </div>
+
   	<div id="welcome-carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover">
   		<ol class="carousel-indicators">
   			<li data-target="#welcome-carousel" data-slide-to="0" class="active"></li>
@@ -107,3 +115,9 @@
   	</div>
   </div>
 </div>
+
+<style>
+  div.tv{
+    margin-top: 0;
+  }
+</style>
