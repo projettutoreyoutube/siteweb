@@ -58,7 +58,6 @@ div.lien{
   }
   div.description{
     padding:0;
-
   }
   p.description{
     font-weight: normal;
