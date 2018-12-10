@@ -3,7 +3,7 @@
     Organisation de l'entreprise YouTube
   </div>
   <div class="content">
-    Sur cette partie du site, nous verrons comment s'organise l'entreprise YouTube.
+    Comment s'organise l'entreprise YouTube ?
   </div>
 
   <div class="row col-lg-12 miniatures">

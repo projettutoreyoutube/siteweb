@@ -1,9 +1,9 @@
 <div class="corps_texte">
   <div class="main_title">
-    Partie "Modèle Economique" de YouTube
+    Présentation du "Modèle Economique" de YouTube
   </div>
   <div class="content">
-    Sur cette partie du site, nous verrons le modèle économique de YouTube, mais surtout, quelles sont ses sources de revenus.
+    Savez-vous quel est le modèle économique de YouTube ? Et surtout, quelles sont ses sources de revenus ?
   </div>
 
   <div class="row col-lg-12 miniatures">
