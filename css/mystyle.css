@@ -613,4 +613,15 @@ div.left{
   color: #888A85;
 }
 
-/* debut back to the top button */
+/* fin back to the top button */
+
+/* début pdf objet */
+
+.pdfobject-container {
+  height: 30rem;
+  border: 1rem solid;
+  width: 100%;
+  height: 720px;
+}
+
+/* fin pdf objet */
