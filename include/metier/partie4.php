@@ -7,27 +7,27 @@
   </div>
   <div class="content">
     <div class="video">
-      <a class="video" href="https://www.youtube.com/cyprien"><img class="video" src="img/metier/chaine1.png"></a><br />
+      <a class="video" href="https://www.youtube.com/cyprien"><img class="video" src="img/metier/chaine1.png" alt="image lien vers la chaine de Cyprien"></a><br />
     </div>
   </div>
   <div class="content">
     <div class="video">
-      <a class="video" href="https://www.youtube.com/user/aMOODIEsqueezie"><img class="video" src="img/metier/chaine2.png"></a><br />
+      <a class="video" href="https://www.youtube.com/user/aMOODIEsqueezie"><img class="video" src="img/metier/chaine2.png" alt="image lien vers la chaine de Squeezie"></a><br />
     </div>
   </div>
   <div class="content">
     <div class="video">
-      <a class="video" href="https://www.youtube.com/user/NormanFaitDesVideos"><img class="video" src="img/metier/chaine3.png"></a><br />
+      <a class="video" href="https://www.youtube.com/user/NormanFaitDesVideos"><img class="video" src="img/metier/chaine3.png" alt="image lien vers la chaine de Norman"></a><br />
     </div>
   </div>
   <div class="content">
     <div class="video">
-      <a class="video" href="https://www.youtube.com/user/LeFatShow"><img class="video" src="img/metier/chaine4.png"></a><br />
+      <a class="video" href="https://www.youtube.com/user/LeFatShow"><img class="video" src="img/metier/chaine4.png" alt="image lien vers la chaine de McFly & Carlito"></a><br />
     </div>
   </div>
   <div class="content">
     <div class="video">
-      <a class="video" href="https://www.youtube.com/user/ptitenatou"><img class="video" src="img/metier/chaine5.png"></a><br />
+      <a class="video" href="https://www.youtube.com/user/ptitenatou"><img class="video" src="img/metier/chaine5.png" alt="image lien vers la chaine de Natoo"></a><br />
     </div>
   </div>
 

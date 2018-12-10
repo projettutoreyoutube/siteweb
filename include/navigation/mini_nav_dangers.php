@@ -4,9 +4,8 @@
 			<li><a href="#">Navigation</a>
 				<ul>
 					<li><a href="index.php?partie=3&subpart=1">Les Infoxs</a></li>
-					<li><a href="index.php?partie=3&subpart=2">Exploitation des mineurs</a></li>
-					<li><a href="index.php?partie=3&subpart=3">Partie3</a></li>
-					<li><a href="index.php?partie=3&subpart=4">Partie4</a></li>
+					<li><a href="index.php?partie=3&subpart=2">L'exploitation des mineurs</a></li>
+					<li><a href="index.php?partie=3&subpart=3">L’apologie de la violence</a></li>
 				</ul>
 			</li>
 		</ul>
