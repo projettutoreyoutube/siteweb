@@ -515,7 +515,7 @@ p.sign{
 /* debut caroussel */
 .tv {
   padding: 0;
-  margin: 50px auto 50px auto;
+  margin: 50px auto 20px auto;
   display:block;
 }
 
@@ -575,6 +575,16 @@ p.sign{
 }
 /* fin caroussel */
 
+/* début texte accueil */
+.accueil h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.accueil p {
+  text-align: justify;
+}
+/* fin texte accueil */
 
 div.left{
     text-align: left;
