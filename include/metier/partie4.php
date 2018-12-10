@@ -57,7 +57,7 @@
       <a class="button left" href="index.php?partie=4&subpart=3">Partie précédente</a>
     </div>
     <div class="col-md-6 right">
-      <a class="button right" href="index.php?partie=4">Partie suivante</a>
+      <a class="button right" href="index.php?partie=4">Retour au menu de la partie</a>
     </div>
   </div>
 </div>

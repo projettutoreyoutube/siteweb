@@ -35,3 +35,12 @@
     L’entreprise compte également quelques modérateurs humains qui gèrent le contenu et ont le pouvoir de supprimer les vidéos dérangeantes. YouTube n’est cependant pas « ultra agressive » envers ces vidéos de désinformation, car, malgré leur contenu, elles restent monétisables et rapportent donc de l’argent à la plateforme. Charge donc à l’utilisateur de vérifier les sources des vidéos qu’il regarde.
   </div>
 </div>
+
+<div class="row">
+<div class="col-md-6 left">
+  <a class="button left" href="index.php?partie=3">Partie précédente</a>
+</div>
+<div class="col-md-6 right">
+  <a class="button right" href="index.php?partie=3&subpart=2">Retour au menu de la partie</a>
+</div>
+</div>
