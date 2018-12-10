@@ -129,8 +129,8 @@ img.banner{
   width: 89%;
 }
 #mini_menu-accordeon li {
-   background-color:#6f6e6e;
-   background-image: #6f6e6e;
+   background-color:#908a8a;
+   background-image: #908a8a;
    border-radius: 6px;
    margin-bottom:2px;
    box-shadow: 3px 3px 3px #999;
@@ -158,7 +158,7 @@ img.banner{
   font-size:1em
 }
 #mini_menu-accordeon li:hover {
-   background: #8f8b8b;
+   background: #989494;
 }
 #mini_menu-accordeon li li:hover {
    background: #999;
