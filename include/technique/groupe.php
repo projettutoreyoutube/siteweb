@@ -51,7 +51,7 @@
 		DUT Informatique<br>
 		break;<br>
 	}<br><br>
-	Et surtout, n'oubliez pas, dans la vie, TOUT EST FICHIER.
+	Et surtout, n'oubliez pas, dans la vie, <strong><span title="C.f. Miloud Fouzi">TOUT EST FICHIER.</span></strong>
 </p>
 
 <h4 class="nom">Membre : Erwan Vinot</h4>
