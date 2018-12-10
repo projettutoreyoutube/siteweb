@@ -113,6 +113,7 @@ h4.nom{
 	margin:0;
 	font-size: 1.2rem;
 	margin-top: 15px;
+	font-weight: bold;
 	}
 
 h5.mail{
@@ -126,7 +127,7 @@ h5.mail{
 }
 
 div.contact{
-	width: 100%;	
+	width: 100%;
 	display: flex;
 }
 
@@ -141,6 +142,7 @@ p.paragraph{
 li.paragraph{
 	text-align: justify;
 	padding: 15px; padding-top: 0;
+	list-style: none;
 }
 p.lien{
 	font-size: 1rem;
