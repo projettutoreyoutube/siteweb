@@ -10,11 +10,11 @@ img.rapport{
 </style>
 
 
-<h1 class="col-sm-12 title">Bienvenue sur la page de présentation de notre rapport</h1>
-<h2 class="col-sm-12 subtitle">Cette page présente l'histoire de notre rapport</h2>
+<h1 class="col-sm-12 title">Page de présentation de notre rapport</h1>
+<h2 class="col-sm-12 subtitle">Voici l'histoire de notre rapport</h2>
 
 <p class="col-sm-12 paragraph">
-	<div class="img">
+	<div class="img col-sm-12">
 		<img src="img/rapport.PNG" class="rapport" alt="Page de garde de notre rapport">
 	</div>
 </p>

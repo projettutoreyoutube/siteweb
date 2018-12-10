@@ -1,10 +1,10 @@
 <div class="corps_texte">
   <div class="main_title">
-    Poids dans la société
+    Poids de YouTube dans la société
   </div>
 
   <div class="content">
-    Cette partie du site a pour but de présenter le poids que YouTube peut avoir sur la société.
+    Quel poids YouTube a-t-il sur notre société ?
   </div>
 
   <div class="row col-lg-12 miniatures">

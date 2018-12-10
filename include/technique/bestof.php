@@ -5,8 +5,8 @@
 </style>
 
 
-<h1 class="col-sm-12 title">Bienvenue sur la page Best-Of du site</h1>
-<h2 class="col-sm-12 subtitle">Cette page recense les perles du sondage que nous avons réalisé lors de notre projet</h2>
+<h1 class="col-sm-12 title">Page Best-Of du site</h1>
+<h2 class="col-sm-12 subtitle">Perles du sondage que nous avons réalisé lors de notre projet</h2>
 
 <h3 class="col-sm-12 pearls"><small>(Nous précisons que les réponses n'ont pas été modifiées, nous avons seulement corrigé l'orthographe et en avons rendus certaines plus "politiquement correctes". Nous tenons également à préciser que les propos retranscrit ici ne reflètent pas notre avis, ils servent uniquement un but humoristique.)</small></h3>
 
