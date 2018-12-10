@@ -26,11 +26,6 @@
     </div>
   </div>
 
-  <div class="row">
-  <div class="img-md">
-    <img class="presentation" src="img/poids/poids_presentation.jpg" alt="image barre"/>
-  </div>
-</div>
 </div>
 
 <style>

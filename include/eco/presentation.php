@@ -36,11 +36,6 @@
     </div>
   </div>
 
-  <div class="row">
-  <div class="img-md">
-    <img class="presentation" src="img/eco/eco.jpg" alt="image barre"/>
-  </div>
-</div>
 </div>
 
 <style>
