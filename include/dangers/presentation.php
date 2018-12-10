@@ -27,13 +27,13 @@
     </div>
     <div class="col-lg-12 raccourci propriete">
       <div class="lien">
-        <a class="img" href="index.php?partie=3&subpart=3"><img class="background" src="img/dangers/violence.jpg" alt="background pour lien"></a>       
+        <a class="img" href="index.php?partie=3&subpart=3"><img class="background" src="img/dangers/violence.jpg" alt="background pour lien"></a>
       </div>
       <div class="description">
         <a class="raccourci" href="index.php?partie=3&subpart=3">Des chaînes YouTube font l’apologie de la violence</a>
         <p class="description">Découvrez un autre monde présent sur YouTube, ou la violence fait rage.</p>
       </div>
-    </div> 
+    </div>
 
 
   </div>
@@ -55,9 +55,3 @@ div.lien{
     margin:0;
   }
 </style>
-  <div class="row">
-    <div class="img-md">
-      <img class="presentation" src="img/dangers/dangers_presentation.jpeg" alt="image barre"/>
-    </div>
-  </div>
-
