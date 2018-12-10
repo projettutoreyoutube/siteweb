@@ -1,4 +1,4 @@
-<div class="row accueil">
+<div class="row">
   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 tv">
 	   <div id="welcome-carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover">
   		<ol class="carousel-indicators">
@@ -104,7 +104,7 @@
   		</a>
   	</div>
   </div>
-  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 intro-site">
     <h1>YouTube - Un Géant du Web</h1>
     <p>
       Aujourd'hui, presque tout le monde connait et utilise la plateforme YouTube. Mais en connaissez vous réellement tous les aspects ? Savez vous tout ce qu'il se passe lorsque vous regardez une vidéo ? Etes-vous sûrs d'être en totale sécurité ? Venez confronter vos idées à notre travail et ressortez en changés (ou pas).

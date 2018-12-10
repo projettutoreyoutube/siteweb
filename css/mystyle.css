@@ -576,12 +576,12 @@ p.sign{
 /* fin caroussel */
 
 /* début texte accueil */
-.accueil h1 {
+.intro-site h1 {
   font-size: 2em;
   font-weight: bold;
 }
 
-.accueil p {
+.intro-site p {
   text-align: justify;
 }
 /* fin texte accueil */
